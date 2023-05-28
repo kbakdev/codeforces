@@ -117,7 +117,7 @@ if __name__ == "__main__":
 
     md = to_md(user_info, submissions)
 
-    with open('../README.md', 'w') as f:
+    with open('README.md', 'w') as f:
         f.write(md)
 
     print("README.md has been updated!")
