@@ -28,8 +28,9 @@ jobs:
     - name: Commit and push if changed
       run: |
         git diff
-        git config --local user.email "action@github.com"
-        git config --local user.name "GitHub Action"
-        git add README.md
+        git config --local user.email "contact@kacperbak.pl"
+        git config --local user.name "53jk1"
         git commit -am "Update README" || exit 0
-        git push
+        git push origin HEAD:main --follow-tags --force-with-lease || echo "No changes to commit"
+      env:
+        GH_PAT: ${{ secrets.GH_PAT }}
