@@ -30,5 +30,6 @@ jobs:
         git diff
         git config --local user.email "action@github.com"
         git config --local user.name "GitHub Action"
+        git add README.md
         git commit -am "Update README" || exit 0
         git push
