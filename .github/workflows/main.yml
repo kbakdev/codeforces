@@ -11,14 +11,15 @@ jobs:
 
     steps:
     - uses: actions/checkout@v2
+      with:
+        fetch-depth: 0
+        persist-credentials: false
+        token: ${{ secrets.GH_PAT }}
 
     - name: Set up Python
       uses: actions/setup-python@v2
       with:
         python-version: 3.8
-        fetch-depth: 0
-        persist-credentials: false
-        token: ${{ secrets.GH_PAT }}
 
     - name: Install dependencies
       run: |
