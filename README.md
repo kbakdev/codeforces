@@ -1,7 +1,7 @@
 # User Info
 - Handle: 53jk1
-- Rating: 659
-- Max Rating: 659
+- Rating: 970
+- Max Rating: 991
 - Contribution: 0
 - Rank: newbie
 - Max Rank: newbie
@@ -11,6 +11,9 @@
 # Submissions
 | Problem Name | Index | Submission ID | Contest ID | Solution Link | Rating | Tags | Programming Language | Submission Time |
 |--------------|-------|---------------|------------|---------------|--------|------|---------------------|-----------------|
+| [Divisibility Problem](https://codeforces.com/contest/1328/problem/A) | A | 208360474 | 1328 | [208360474](https://codeforces.com/contest/1328/submission/208360474) | 800 | math | GNU C++20 (64) | 03 June 2023 18:58:35 |
+| [Expression](https://codeforces.com/contest/479/problem/A) | A | 208360202 | 479 | [208360202](https://codeforces.com/contest/479/submission/208360202) | 1000 | brute force, math | GNU C++20 (64) | 03 June 2023 18:54:57 |
+| [I Wanna Be the Guy](https://codeforces.com/contest/469/problem/A) | A | 208359427 | 469 | [208359427](https://codeforces.com/contest/469/submission/208359427) | 800 | greedy, implementation | GNU C++20 (64) | 03 June 2023 18:44:12 |
 | [Gravity Flip](https://codeforces.com/contest/405/problem/A) | A | 208095561 | 405 | [208095561](https://codeforces.com/contest/405/submission/208095561) | 900 | greedy, implementation, sortings | PyPy 3-64 | 01 June 2023 19:34:26 |
 | [Is your horseshoe on the other hoof?](https://codeforces.com/contest/228/problem/A) | A | 208095230 | 228 | [208095230](https://codeforces.com/contest/228/submission/208095230) | 800 | implementation | PyPy 3-64 | 01 June 2023 19:28:38 |
 | [Hulk](https://codeforces.com/contest/705/problem/A) | A | 208095014 | 705 | [208095014](https://codeforces.com/contest/705/submission/208095014) | 800 | implementation | PyPy 3-64 | 01 June 2023 19:24:46 |
