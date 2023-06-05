@@ -1,6 +1,6 @@
 # User Info
 - Handle: 53jk1
-- Rating: 970
+- Rating: 914
 - Max Rating: 991
 - Contribution: 0
 - Rank: newbie
@@ -11,6 +11,29 @@
 # Submissions
 | Problem Name | Index | Submission ID | Contest ID | Solution Link | Rating | Tags | Programming Language | Submission Time |
 |--------------|-------|---------------|------------|---------------|--------|------|---------------------|-----------------|
+| [New Year and Hurry](https://codeforces.com/contest/750/problem/A) | A | 208516791 | 750 | [208516791](https://codeforces.com/contest/750/submission/208516791) | 800 | binary search, brute force, implementation, math | PyPy 3-64 | 04 June 2023 18:27:04 |
+| [T-primes](https://codeforces.com/contest/230/problem/B) | B | 208513287 | 230 | [208513287](https://codeforces.com/contest/230/submission/208513287) | 1300 | binary search, implementation, math, number theory | GNU C++20 (64) | 04 June 2023 17:53:15 |
+| [I_love_\%username\%](https://codeforces.com/contest/155/problem/A) | A | 208432900 | 155 | [208432900](https://codeforces.com/contest/155/submission/208432900) | 800 | brute force | GNU C++20 (64) | 04 June 2023 14:14:05 |
+| [Police Recruits](https://codeforces.com/contest/427/problem/A) | A | 208431853 | 427 | [208431853](https://codeforces.com/contest/427/submission/208431853) | 800 | implementation | GNU C++20 (64) | 04 June 2023 14:03:02 |
+| [Vanya and Lanterns](https://codeforces.com/contest/492/problem/B) | B | 208428518 | 492 | [208428518](https://codeforces.com/contest/492/submission/208428518) | 1200 | binary search, implementation, math, sortings | GNU C++20 (64) | 04 June 2023 13:23:28 |
+| [Dragons](https://codeforces.com/contest/230/problem/A) | A | 208422754 | 230 | [208422754](https://codeforces.com/contest/230/submission/208422754) | 1000 | greedy, sortings | GNU C++20 (64) | 04 June 2023 12:18:05 |
+| [Fox And Snake](https://codeforces.com/contest/510/problem/A) | A | 208421939 | 510 | [208421939](https://codeforces.com/contest/510/submission/208421939) | 800 | implementation | GNU C++20 (64) | 04 June 2023 12:08:55 |
+| [Registration System](https://codeforces.com/contest/4/problem/C) | C | 208420547 | 4 | [208420547](https://codeforces.com/contest/4/submission/208420547) | 1300 | data structures, hashing, implementation | GNU C++20 (64) | 04 June 2023 11:53:25 |
+| [Candies and Two Sisters](https://codeforces.com/contest/1335/problem/A) | A | 208419036 | 1335 | [208419036](https://codeforces.com/contest/1335/submission/208419036) | 800 | math | GNU C++20 (64) | 04 June 2023 11:35:23 |
+| [Amusing Joke](https://codeforces.com/contest/141/problem/A) | A | 208418887 | 141 | [208418887](https://codeforces.com/contest/141/submission/208418887) | 800 | implementation, sortings, strings | GNU C++20 (64) | 04 June 2023 11:33:38 |
+| [Puzzles](https://codeforces.com/contest/337/problem/A) | A | 208418746 | 337 | [208418746](https://codeforces.com/contest/337/submission/208418746) | 900 | greedy | GNU C++20 (64) | 04 June 2023 11:32:02 |
+| [Anton and Polyhedrons](https://codeforces.com/contest/785/problem/A) | A | 208418649 | 785 | [208418649](https://codeforces.com/contest/785/submission/208418649) | 800 | implementation, strings | GNU C++20 (64) | 04 June 2023 11:30:45 |
+| [Games](https://codeforces.com/contest/268/problem/A) | A | 208418512 | 268 | [208418512](https://codeforces.com/contest/268/submission/208418512) | 800 | brute force | GNU C++20 (64) | 04 June 2023 11:29:16 |
+| [Hit the Lottery](https://codeforces.com/contest/996/problem/A) | A | 208416800 | 996 | [208416800](https://codeforces.com/contest/996/submission/208416800) | 800 | dp, greedy | GNU C++20 (64) | 04 June 2023 11:09:22 |
+| [IQ test](https://codeforces.com/contest/25/problem/A) | A | 208416557 | 25 | [208416557](https://codeforces.com/contest/25/submission/208416557) | 1300 | brute force | GNU C++20 (64) | 04 June 2023 11:06:29 |
+| [Anton and Letters](https://codeforces.com/contest/443/problem/A) | A | 208415000 | 443 | [208415000](https://codeforces.com/contest/443/submission/208415000) | 800 | constructive algorithms, implementation | GNU C++20 (64) | 04 June 2023 10:50:45 |
+| [cAPS lOCK](https://codeforces.com/contest/131/problem/A) | A | 208413801 | 131 | [208413801](https://codeforces.com/contest/131/submission/208413801) | 1000 | implementation, strings | GNU C++20 (64) | 04 June 2023 10:38:04 |
+| [Dubstep](https://codeforces.com/contest/208/problem/A) | A | 208412588 | 208 | [208412588](https://codeforces.com/contest/208/submission/208412588) | 900 | strings | GNU C++20 (64) | 04 June 2023 10:24:53 |
+| [Taxi](https://codeforces.com/contest/158/problem/B) | B | 208407388 | 158 | [208407388](https://codeforces.com/contest/158/submission/208407388) | 1100 | *special, greedy, implementation | GNU C++20 (64) | 04 June 2023 09:30:56 |
+| [Pangram](https://codeforces.com/contest/520/problem/A) | A | 208403253 | 520 | [208403253](https://codeforces.com/contest/520/submission/208403253) | 800 | implementation, strings | GNU C++20 (64) | 04 June 2023 08:49:47 |
+| [Kefa and First Steps](https://codeforces.com/contest/580/problem/A) | A | 208400584 | 580 | [208400584](https://codeforces.com/contest/580/submission/208400584) | 900 | brute force, dp, implementation | GNU C++20 (64) | 04 June 2023 08:22:07 |
+| [Insomnia cure](https://codeforces.com/contest/148/problem/A) | A | 208400059 | 148 | [208400059](https://codeforces.com/contest/148/submission/208400059) | 800 | constructive algorithms, implementation, math | GNU C++20 (64) | 04 June 2023 08:16:27 |
+| [Arrival of the General](https://codeforces.com/contest/144/problem/A) | A | 208398491 | 144 | [208398491](https://codeforces.com/contest/144/submission/208398491) | 800 | implementation | GNU C++20 (64) | 04 June 2023 07:59:23 |
 | [Divisibility Problem](https://codeforces.com/contest/1328/problem/A) | A | 208360474 | 1328 | [208360474](https://codeforces.com/contest/1328/submission/208360474) | 800 | math | GNU C++20 (64) | 03 June 2023 18:58:35 |
 | [Expression](https://codeforces.com/contest/479/problem/A) | A | 208360202 | 479 | [208360202](https://codeforces.com/contest/479/submission/208360202) | 1000 | brute force, math | GNU C++20 (64) | 03 June 2023 18:54:57 |
 | [I Wanna Be the Guy](https://codeforces.com/contest/469/problem/A) | A | 208359427 | 469 | [208359427](https://codeforces.com/contest/469/submission/208359427) | 800 | greedy, implementation | GNU C++20 (64) | 03 June 2023 18:44:12 |
