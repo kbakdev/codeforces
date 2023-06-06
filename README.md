@@ -1,7 +1,7 @@
 # User Info
 - Handle: 53jk1
-- Rating: 914
-- Max Rating: 991
+- Rating: 904
+- Max Rating: 977
 - Contribution: 0
 - Rank: newbie
 - Max Rank: newbie
@@ -11,6 +11,7 @@
 # Submissions
 | Problem Name | Index | Submission ID | Contest ID | Solution Link | Rating | Tags | Programming Language | Submission Time |
 |--------------|-------|---------------|------------|---------------|--------|------|---------------------|-----------------|
+| [Xenia and Ringroad](https://codeforces.com/contest/339/problem/B) | B | 208611757 | 339 | [208611757](https://codeforces.com/contest/339/submission/208611757) | 1000 | implementation | PyPy 3-64 | 05 June 2023 15:56:35 |
 | [New Year and Hurry](https://codeforces.com/contest/750/problem/A) | A | 208516791 | 750 | [208516791](https://codeforces.com/contest/750/submission/208516791) | 800 | binary search, brute force, implementation, math | PyPy 3-64 | 04 June 2023 18:27:04 |
 | [T-primes](https://codeforces.com/contest/230/problem/B) | B | 208513287 | 230 | [208513287](https://codeforces.com/contest/230/submission/208513287) | 1300 | binary search, implementation, math, number theory | GNU C++20 (64) | 04 June 2023 17:53:15 |
 | [I_love_\%username\%](https://codeforces.com/contest/155/problem/A) | A | 208432900 | 155 | [208432900](https://codeforces.com/contest/155/submission/208432900) | 800 | brute force | GNU C++20 (64) | 04 June 2023 14:14:05 |
