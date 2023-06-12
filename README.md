@@ -1,6 +1,6 @@
 # User Info
 - Handle: 53jk1
-- Rating: 904
+- Rating: 905
 - Max Rating: 977
 - Contribution: 0
 - Rank: newbie
@@ -11,6 +11,16 @@
 # Submissions
 | Problem Name | Index | Submission ID | Contest ID | Solution Link | Rating | Tags | Programming Language | Submission Time |
 |--------------|-------|---------------|------------|---------------|--------|------|---------------------|-----------------|
+| [Football](https://codeforces.com/contest/96/problem/A) | A | 207686390 | 96 | [207686390](https://codeforces.com/contest/96/submission/207686390) | 900 | implementation, strings | PyPy 3-64 | 28 May 2023 20:54:54 |
+| [Die Roll](https://codeforces.com/contest/9/problem/A) | A | 209323511 | 9 | [209323511](https://codeforces.com/contest/9/submission/209323511) | 800 | math, probabilities | GNU C++20 (64) | 11 June 2023 21:30:29 |
+| [Division?](https://codeforces.com/contest/1669/problem/A) | A | 209321961 | 1669 | [209321961](https://codeforces.com/contest/1669/submission/209321961) | 800 | implementation | GNU C++20 (64) | 11 June 2023 20:48:25 |
+| [Boring Apartments](https://codeforces.com/contest/1433/problem/A) | A | 209321795 | 1433 | [209321795](https://codeforces.com/contest/1433/submission/209321795) | 800 | implementation, math | GNU C++20 (64) | 11 June 2023 20:45:04 |
+| [Minimal Square](https://codeforces.com/contest/1360/problem/A) | A | 209321684 | 1360 | [209321684](https://codeforces.com/contest/1360/submission/209321684) | 800 | greedy, math | GNU C++20 (64) | 11 June 2023 20:42:34 |
+| [Two Arrays And Swaps](https://codeforces.com/contest/1353/problem/B) | B | 209321616 | 1353 | [209321616](https://codeforces.com/contest/1353/submission/209321616) | 800 | greedy, sortings | GNU C++20 (64) | 11 June 2023 20:40:52 |
+| [Plus One on the Subset](https://codeforces.com/contest/1624/problem/A) | A | 209321560 | 1624 | [209321560](https://codeforces.com/contest/1624/submission/209321560) | 800 | math | GNU C++20 (64) | 11 June 2023 20:39:41 |
+| [Black Square](https://codeforces.com/contest/431/problem/A) | A | 209321102 | 431 | [209321102](https://codeforces.com/contest/431/submission/209321102) | 800 | implementation | PyPy 3-64 | 11 June 2023 20:30:31 |
+| [Lucky?](https://codeforces.com/contest/1676/problem/A) | A | 209321071 | 1676 | [209321071](https://codeforces.com/contest/1676/submission/209321071) | 800 | implementation | PyPy 3-64 | 11 June 2023 20:29:55 |
+| [Do Not Be Distracted!](https://codeforces.com/contest/1520/problem/A) | A | 209321035 | 1520 | [209321035](https://codeforces.com/contest/1520/submission/209321035) | 800 | brute force, implementation | PyPy 3-64 | 11 June 2023 20:29:20 |
 | [New Year Transportation](https://codeforces.com/contest/500/problem/A) | A | 209029732 | 500 | [209029732](https://codeforces.com/contest/500/submission/209029732) | 1000 | dfs and similar, graphs, implementation | GNU C++20 (64) | 08 June 2023 18:50:14 |
 | [Even Array](https://codeforces.com/contest/1367/problem/B) | B | 209029476 | 1367 | [209029476](https://codeforces.com/contest/1367/submission/209029476) | 800 | greedy, math | GNU C++20 (64) | 08 June 2023 18:47:27 |
 | [Required Remainder](https://codeforces.com/contest/1374/problem/A) | A | 209028695 | 1374 | [209028695](https://codeforces.com/contest/1374/submission/209028695) | 800 | math | GNU C++20 (64) | 08 June 2023 18:37:54 |
@@ -94,7 +104,6 @@
 | [Tram](https://codeforces.com/contest/116/problem/A) | A | 207688784 | 116 | [207688784](https://codeforces.com/contest/116/submission/207688784) | 800 | implementation | PyPy 3-64 | 28 May 2023 21:57:15 |
 | [Anton and Danik](https://codeforces.com/contest/734/problem/A) | A | 207687855 | 734 | [207687855](https://codeforces.com/contest/734/submission/207687855) | 800 | implementation, strings | PyPy 3-64 | 28 May 2023 21:29:36 |
 | [Nearly Lucky Number](https://codeforces.com/contest/110/problem/A) | A | 207687644 | 110 | [207687644](https://codeforces.com/contest/110/submission/207687644) | 800 | implementation | PyPy 3-64 | 28 May 2023 21:24:22 |
-| [Football](https://codeforces.com/contest/96/problem/A) | A | 207686390 | 96 | [207686390](https://codeforces.com/contest/96/submission/207686390) | 900 | implementation, strings | PyPy 3-64 | 28 May 2023 20:54:54 |
 | [Wrong Subtraction](https://codeforces.com/contest/977/problem/A) | A | 207686020 | 977 | [207686020](https://codeforces.com/contest/977/submission/207686020) | 800 | implementation | PyPy 3-64 | 28 May 2023 20:47:46 |
 | [Young Physicist](https://codeforces.com/contest/69/problem/A) | A | 207685403 | 69 | [207685403](https://codeforces.com/contest/69/submission/207685403) | 1000 | implementation, math | PyPy 3-64 | 28 May 2023 20:35:44 |
 | [Word](https://codeforces.com/contest/59/problem/A) | A | 207681381 | 59 | [207681381](https://codeforces.com/contest/59/submission/207681381) | 800 | implementation, strings | PyPy 3-64 | 28 May 2023 19:31:05 |
