@@ -11,6 +11,9 @@
 # Submissions
 | Problem Name | Index | Submission ID | Contest ID | Solution Link | Rating | Tags | Programming Language | Submission Time |
 |--------------|-------|---------------|------------|---------------|--------|------|---------------------|-----------------|
+| [Candies](https://codeforces.com/contest/1343/problem/A) | A | 209482593 | 1343 | [209482593](https://codeforces.com/contest/1343/submission/209482593) | 900 | brute force, math | GNU C++20 (64) | 12 June 2023 17:46:35 |
+| [Polycarp and Coins](https://codeforces.com/contest/1551/problem/A) | A | 209482245 | 1551 | [209482245](https://codeforces.com/contest/1551/submission/209482245) | 800 | greedy, math | GNU C++20 (64) | 12 June 2023 17:43:19 |
+| [Maximum GCD](https://codeforces.com/contest/1370/problem/A) | A | 209481084 | 1370 | [209481084](https://codeforces.com/contest/1370/submission/209481084) | 800 | greedy, implementation, math, number theory | PyPy 3-64 | 12 June 2023 17:32:42 |
 | [Football](https://codeforces.com/contest/96/problem/A) | A | 207686390 | 96 | [207686390](https://codeforces.com/contest/96/submission/207686390) | 900 | implementation, strings | PyPy 3-64 | 28 May 2023 20:54:54 |
 | [Die Roll](https://codeforces.com/contest/9/problem/A) | A | 209323511 | 9 | [209323511](https://codeforces.com/contest/9/submission/209323511) | 800 | math, probabilities | GNU C++20 (64) | 11 June 2023 21:30:29 |
 | [Division?](https://codeforces.com/contest/1669/problem/A) | A | 209321961 | 1669 | [209321961](https://codeforces.com/contest/1669/submission/209321961) | 800 | implementation | GNU C++20 (64) | 11 June 2023 20:48:25 |
