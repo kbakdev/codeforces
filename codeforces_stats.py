@@ -34,6 +34,18 @@ def getUserInfo(username):
 
     except Exception as error:
         print(error)
+        return {
+            "handle": "",
+            "rating": "",
+            "maxRating": "",
+            "contribution": "",
+            "rank": "",
+            "maxRank": "",
+            "registrationTimeSeconds": "",
+            "organization": "",
+            "avatar": ""
+        }
+
 
 def getSubmissions(username):
     apiUrl = "https://codeforces.com/api/user.status"
@@ -59,7 +71,7 @@ def getSubmissions(username):
                 if "contestId" in demo[i]["problem"]:
                     contest_id = str(demo[i]["problem"]["contestId"])
                 else:
-                    rating = "undefined"
+                    contest_id = "undefined"
 
                 if demo[i]["verdict"] == 'OK':
                     submissions.append({
@@ -85,9 +97,25 @@ def getSubmissions(username):
 
     except requests.exceptions.RequestException as error:
         print(error)
+        return []
 
 
 def to_md(user_info, submissions):
+    if user_info is None:
+        user_info = {
+            "handle": "",
+            "rating": "",
+            "maxRating": "",
+            "contribution": "",
+            "rank": "",
+            "maxRank": "",
+            "registrationTimeSeconds": "",
+            "organization": "",
+            "avatar": ""
+        }
+    if submissions is None:
+        submissions = []
+
     md = f"# User Info\n"
     md += f"- Handle: {user_info['handle']}\n"
     md += f"- Rating: {user_info['rating']}\n"
@@ -121,4 +149,3 @@ if __name__ == "__main__":
         f.write(md)
 
     print("README.md has been updated!")
-

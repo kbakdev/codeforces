@@ -1,6 +1,6 @@
 # User Info
 - Handle: 53jk1
-- Rating: 800
+- Rating: 758
 - Max Rating: 977
 - Contribution: 0
 - Rank: newbie
@@ -11,6 +11,25 @@
 # Submissions
 | Problem Name | Index | Submission ID | Contest ID | Solution Link | Rating | Tags | Programming Language | Submission Time |
 |--------------|-------|---------------|------------|---------------|--------|------|---------------------|-----------------|
+| [Apple Tree](https://codeforces.com/contest/1843/problem/D) | D | 210458619 | 1843 | [210458619](https://codeforces.com/contest/1843/submission/210458619) | undefined | combinatorics, dfs and similar, dp | GNU C++20 (64) | 20 June 2023 16:48:12 |
+| [Sum in Binary Tree](https://codeforces.com/contest/1843/problem/C) | C | 210424893 | 1843 | [210424893](https://codeforces.com/contest/1843/submission/210424893) | undefined | bitmasks, trees | GNU C++20 (64) | 20 June 2023 15:42:28 |
+| [Long Long](https://codeforces.com/contest/1843/problem/B) | B | 210423918 | 1843 | [210423918](https://codeforces.com/contest/1843/submission/210423918) | undefined | greedy | GNU C++20 (64) | 20 June 2023 15:40:48 |
+| [Sasha and Array Coloring](https://codeforces.com/contest/1843/problem/A) | A | 210407988 | 1843 | [210407988](https://codeforces.com/contest/1843/submission/210407988) | undefined | greedy, sortings | GNU C++20 (64) | 20 June 2023 15:17:53 |
+| [Kefa and Park](https://codeforces.com/contest/580/problem/C) | C | 210181892 | 580 | [210181892](https://codeforces.com/contest/580/submission/210181892) | 1500 | dfs and similar, graphs, trees | PyPy 3-64 | 18 June 2023 20:01:56 |
+| [LCM Problem](https://codeforces.com/contest/1389/problem/A) | A | 210180997 | 1389 | [210180997](https://codeforces.com/contest/1389/submission/210180997) | 800 | constructive algorithms, greedy, math, number theory | PyPy 3-64 | 18 June 2023 19:44:41 |
+| [Pashmak and Flowers](https://codeforces.com/contest/459/problem/B) | B | 210179034 | 459 | [210179034](https://codeforces.com/contest/459/submission/210179034) | 1300 | combinatorics, implementation, sortings | PyPy 3-64 | 18 June 2023 19:11:13 |
+| [Construct the String](https://codeforces.com/contest/1335/problem/B) | B | 210178781 | 1335 | [210178781](https://codeforces.com/contest/1335/submission/210178781) | 900 | constructive algorithms | PyPy 3-64 | 18 June 2023 19:07:24 |
+| [A+B?](https://codeforces.com/contest/1772/problem/A) | A | 210177921 | 1772 | [210177921](https://codeforces.com/contest/1772/submission/210177921) | 800 | implementation | PyPy 3-64 | 18 June 2023 18:53:43 |
+| [EhAb AnD gCd](https://codeforces.com/contest/1325/problem/A) | A | 210177681 | 1325 | [210177681](https://codeforces.com/contest/1325/submission/210177681) | 800 | constructive algorithms, greedy, number theory | PyPy 3-64 | 18 June 2023 18:50:12 |
+| [Road To Zero](https://codeforces.com/contest/1342/problem/A) | A | 210168684 | 1342 | [210168684](https://codeforces.com/contest/1342/submission/210168684) | 1000 | greedy, math | PyPy 3-64 | 18 June 2023 17:14:36 |
+| [Atilla's Favorite Problem](https://codeforces.com/contest/1760/problem/B) | B | 210168448 | 1760 | [210168448](https://codeforces.com/contest/1760/submission/210168448) | 800 | greedy, implementation, strings | PyPy 3-64 | 18 June 2023 17:13:07 |
+| [A and B and Compilation Errors](https://codeforces.com/contest/519/problem/B) | B | 210166402 | 519 | [210166402](https://codeforces.com/contest/519/submission/210166402) | 1100 | data structures, implementation, sortings | PyPy 3-64 | 18 June 2023 16:49:49 |
+| [Restore the Permutation by Merger](https://codeforces.com/contest/1385/problem/B) | B | 210166244 | 1385 | [210166244](https://codeforces.com/contest/1385/submission/210166244) | 800 | greedy | PyPy 3-64 | 18 June 2023 16:46:59 |
+| [Two Elevators](https://codeforces.com/contest/1729/problem/A) | A | 210165958 | 1729 | [210165958](https://codeforces.com/contest/1729/submission/210165958) | 800 | math | PyPy 3-64 | 18 June 2023 16:41:35 |
+| [Following Directions](https://codeforces.com/contest/1791/problem/B) | B | 210165851 | 1791 | [210165851](https://codeforces.com/contest/1791/submission/210165851) | 800 | geometry, implementation | GNU C++20 (64) | 18 June 2023 16:39:28 |
+| [Destroyer](https://codeforces.com/contest/1836/problem/A) | A | 210129361 | 1836 | [210129361](https://codeforces.com/contest/1836/submission/210129361) | 800 | implementation, sortings | PyPy 3-64 | 18 June 2023 15:05:32 |
+| [Sereja and Suffixes](https://codeforces.com/contest/368/problem/B) | B | 210089249 | 368 | [210089249](https://codeforces.com/contest/368/submission/210089249) | 1100 | data structures, dp | GNU C++20 (64) | 18 June 2023 10:54:48 |
+| [Casimir's String Solitaire](https://codeforces.com/contest/1579/problem/A) | A | 210083279 | 1579 | [210083279](https://codeforces.com/contest/1579/submission/210083279) | 800 | math, strings | GNU C++20 (64) | 18 June 2023 10:10:23 |
 | [Three Pairwise Maximums](https://codeforces.com/contest/1385/problem/A) | A | 210004148 | 1385 | [210004148](https://codeforces.com/contest/1385/submission/210004148) | 800 | math | GNU C++20 (64) | 17 June 2023 21:42:27 |
 | [Perfect Permutation](https://codeforces.com/contest/233/problem/A) | A | 210003687 | 233 | [210003687](https://codeforces.com/contest/233/submission/210003687) | 800 | implementation, math | GNU C++20 (64) | 17 June 2023 21:31:49 |
 | [Maximum in Table](https://codeforces.com/contest/509/problem/A) | A | 210001685 | 509 | [210001685](https://codeforces.com/contest/509/submission/210001685) | 800 | brute force, implementation | GNU C++20 (64) | 17 June 2023 20:33:47 |
