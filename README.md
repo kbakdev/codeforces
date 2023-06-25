@@ -1,6 +1,6 @@
 # User Info
 - Handle: 53jk1
-- Rating: 766
+- Rating: 764
 - Max Rating: 977
 - Contribution: 0
 - Rank: newbie
@@ -11,6 +11,7 @@
 # Submissions
 | Problem Name | Index | Submission ID | Contest ID | Solution Link | Rating | Tags | Programming Language | Submission Time |
 |--------------|-------|---------------|------------|---------------|--------|------|---------------------|-----------------|
+| [Tenzing and Tsondu](https://codeforces.com/contest/1842/problem/A) | A | 210922093 | 1842 | [210922093](https://codeforces.com/contest/1842/submission/210922093) | undefined | games, math | GNU C++20 (64) | 24 June 2023 15:30:36 |
 | [Case of the Zeros and Ones](https://codeforces.com/contest/556/problem/A) | A | 210485543 | 556 | [210485543](https://codeforces.com/contest/556/submission/210485543) | 900 | greedy | GNU C++20 (64) | 20 June 2023 21:29:02 |
 | [Lecture](https://codeforces.com/contest/499/problem/B) | B | 210485330 | 499 | [210485330](https://codeforces.com/contest/499/submission/210485330) | 1000 | implementation, strings | GNU C++20 (64) | 20 June 2023 21:24:51 |
 | [Gennady and a Card Game](https://codeforces.com/contest/1097/problem/A) | A | 210477288 | 1097 | [210477288](https://codeforces.com/contest/1097/submission/210477288) | 800 | brute force, implementation | GNU C++20 (64) | 20 June 2023 19:22:24 |
