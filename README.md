@@ -1,6 +1,6 @@
 # User Info
 - Handle: 53jk1
-- Rating: 766
+- Rating: 774
 - Max Rating: 977
 - Contribution: 0
 - Rank: newbie
@@ -11,7 +11,11 @@
 # Submissions
 | Problem Name | Index | Submission ID | Contest ID | Solution Link | Rating | Tags | Programming Language | Submission Time |
 |--------------|-------|---------------|------------|---------------|--------|------|---------------------|-----------------|
-| [Tenzing and Tsondu](https://codeforces.com/contest/1842/problem/A) | A | 210922093 | 1842 | [210922093](https://codeforces.com/contest/1842/submission/210922093) | undefined | games, math | GNU C++20 (64) | 24 June 2023 15:30:36 |
+| [Come Together](https://codeforces.com/contest/1845/problem/B) | B | 211519269 | 1845 | [211519269](https://codeforces.com/contest/1845/submission/211519269) | undefined | geometry, implementation, math | GNU C++20 (64) | 29 June 2023 16:21:11 |
+| [Business trip](https://codeforces.com/contest/149/problem/A) | A | 211368626 | 149 | [211368626](https://codeforces.com/contest/149/submission/211368626) | 900 | greedy, implementation, sortings | GNU C++20 (64) | 28 June 2023 19:33:37 |
+| [Stone Game](https://codeforces.com/contest/1538/problem/A) | A | 211365886 | 1538 | [211365886](https://codeforces.com/contest/1538/submission/211365886) | 800 | brute force, dp, greedy | GNU C++20 (64) | 28 June 2023 18:42:10 |
+| [Linear Keyboard](https://codeforces.com/contest/1607/problem/A) | A | 211358891 | 1607 | [211358891](https://codeforces.com/contest/1607/submission/211358891) | 800 | implementation, strings | GNU C++20 (64) | 28 June 2023 16:55:48 |
+| [Tenzing and Tsondu](https://codeforces.com/contest/1842/problem/A) | A | 210922093 | 1842 | [210922093](https://codeforces.com/contest/1842/submission/210922093) | 800 | games, math | GNU C++20 (64) | 24 June 2023 15:30:36 |
 | [Case of the Zeros and Ones](https://codeforces.com/contest/556/problem/A) | A | 210485543 | 556 | [210485543](https://codeforces.com/contest/556/submission/210485543) | 900 | greedy | GNU C++20 (64) | 20 June 2023 21:29:02 |
 | [Lecture](https://codeforces.com/contest/499/problem/B) | B | 210485330 | 499 | [210485330](https://codeforces.com/contest/499/submission/210485330) | 1000 | implementation, strings | GNU C++20 (64) | 20 June 2023 21:24:51 |
 | [Gennady and a Card Game](https://codeforces.com/contest/1097/problem/A) | A | 210477288 | 1097 | [210477288](https://codeforces.com/contest/1097/submission/210477288) | 800 | brute force, implementation | GNU C++20 (64) | 20 June 2023 19:22:24 |
@@ -19,7 +23,7 @@
 | [Same Differences](https://codeforces.com/contest/1520/problem/D) | D | 210476785 | 1520 | [210476785](https://codeforces.com/contest/1520/submission/210476785) | 1200 | data structures, hashing, math | GNU C++20 (64) | 20 June 2023 19:15:34 |
 | [Multiplication Table](https://codeforces.com/contest/577/problem/A) | A | 210476613 | 577 | [210476613](https://codeforces.com/contest/577/submission/210476613) | 1000 | implementation, number theory | GNU C++20 (64) | 20 June 2023 19:13:21 |
 | [Arpa’s hard exam and Mehrdad’s naive cheat](https://codeforces.com/contest/742/problem/A) | A | 210462377 | 742 | [210462377](https://codeforces.com/contest/742/submission/210462377) | 1000 | implementation, math, number theory | GNU C++20 (64) | 20 June 2023 17:01:54 |
-| [Apple Tree](https://codeforces.com/contest/1843/problem/D) | D | 210460420 | 1843 | [210460420](https://codeforces.com/contest/1843/submission/210460420) | undefined | combinatorics, dfs and similar, dp, math, trees | GNU C++20 (64) | 20 June 2023 16:52:47 |
+| [Apple Tree](https://codeforces.com/contest/1843/problem/D) | D | 210460420 | 1843 | [210460420](https://codeforces.com/contest/1843/submission/210460420) | 1200 | combinatorics, dfs and similar, dp, math, trees | GNU C++20 (64) | 20 June 2023 16:52:47 |
 | [Kefa and Park](https://codeforces.com/contest/580/problem/C) | C | 210181892 | 580 | [210181892](https://codeforces.com/contest/580/submission/210181892) | 1500 | dfs and similar, graphs, trees | PyPy 3-64 | 18 June 2023 20:01:56 |
 | [LCM Problem](https://codeforces.com/contest/1389/problem/A) | A | 210180997 | 1389 | [210180997](https://codeforces.com/contest/1389/submission/210180997) | 800 | constructive algorithms, greedy, math, number theory | PyPy 3-64 | 18 June 2023 19:44:41 |
 | [Pashmak and Flowers](https://codeforces.com/contest/459/problem/B) | B | 210179034 | 459 | [210179034](https://codeforces.com/contest/459/submission/210179034) | 1300 | combinatorics, implementation, sortings | PyPy 3-64 | 18 June 2023 19:11:13 |
