@@ -1,6 +1,6 @@
 # User Info
 - Handle: 53jk1
-- Rating: 781
+- Rating: 848
 - Max Rating: 977
 - Contribution: 0
 - Rank: newbie
@@ -11,7 +11,9 @@
 # Submissions
 | Problem Name | Index | Submission ID | Contest ID | Solution Link | Rating | Tags | Programming Language | Submission Time |
 |--------------|-------|---------------|------------|---------------|--------|------|---------------------|-----------------|
-| [Come Together](https://codeforces.com/contest/1845/problem/B) | B | 211519269 | 1845 | [211519269](https://codeforces.com/contest/1845/submission/211519269) | undefined | geometry, implementation, math | GNU C++20 (64) | 29 June 2023 16:21:11 |
+| [Hamon Odyssey](https://codeforces.com/contest/1847/problem/B) | B | 212429610 | 1847 | [212429610](https://codeforces.com/contest/1847/submission/212429610) | undefined | bitmasks, greedy | GNU C++20 (64) | 06 July 2023 16:04:07 |
+| [The Man who became a God ](https://codeforces.com/contest/1847/problem/A) | A | 212404056 | 1847 | [212404056](https://codeforces.com/contest/1847/submission/212404056) | undefined | greedy, math, sortings | GNU C++20 (64) | 06 July 2023 15:19:33 |
+| [Come Together](https://codeforces.com/contest/1845/problem/B) | B | 211519269 | 1845 | [211519269](https://codeforces.com/contest/1845/submission/211519269) | 900 | geometry, implementation, math | GNU C++20 (64) | 29 June 2023 16:21:11 |
 | [Business trip](https://codeforces.com/contest/149/problem/A) | A | 211368626 | 149 | [211368626](https://codeforces.com/contest/149/submission/211368626) | 900 | greedy, implementation, sortings | GNU C++20 (64) | 28 June 2023 19:33:37 |
 | [Stone Game](https://codeforces.com/contest/1538/problem/A) | A | 211365886 | 1538 | [211365886](https://codeforces.com/contest/1538/submission/211365886) | 800 | brute force, dp, greedy | GNU C++20 (64) | 28 June 2023 18:42:10 |
 | [Linear Keyboard](https://codeforces.com/contest/1607/problem/A) | A | 211358891 | 1607 | [211358891](https://codeforces.com/contest/1607/submission/211358891) | 800 | implementation, strings | GNU C++20 (64) | 28 June 2023 16:55:48 |
