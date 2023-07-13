@@ -1,6 +1,6 @@
 # User Info
 - Handle: 53jk1
-- Rating: 785
+- Rating: 895
 - Max Rating: 977
 - Contribution: 0
 - Rank: newbie
@@ -11,8 +11,18 @@
 # Submissions
 | Problem Name | Index | Submission ID | Contest ID | Solution Link | Rating | Tags | Programming Language | Submission Time |
 |--------------|-------|---------------|------------|---------------|--------|------|---------------------|-----------------|
+| [Two Substrings](https://codeforces.com/contest/550/problem/A) | A | 213558666 | 550 | [213558666](https://codeforces.com/contest/550/submission/213558666) | 1500 | brute force, dp, greedy, implementation, strings | GNU C++20 (64) | 12 July 2023 19:33:00 |
+| [CopyCopyCopyCopyCopy](https://codeforces.com/contest/1325/problem/B) | B | 213558495 | 1325 | [213558495](https://codeforces.com/contest/1325/submission/213558495) | 800 | greedy, implementation | GNU C++20 (64) | 12 July 2023 19:31:02 |
+| [Prepend and Append](https://codeforces.com/contest/1791/problem/C) | C | 213558277 | 1791 | [213558277](https://codeforces.com/contest/1791/submission/213558277) | 800 | implementation, two pointers | GNU C++20 (64) | 12 July 2023 19:28:31 |
+| [Ichihime and Triangle](https://codeforces.com/contest/1337/problem/A) | A | 213555078 | 1337 | [213555078](https://codeforces.com/contest/1337/submission/213555078) | 800 | constructive algorithms, math | GNU C++20 (64) | 12 July 2023 18:48:44 |
+| [Sum of Odd Integers](https://codeforces.com/contest/1327/problem/A) | A | 213552736 | 1327 | [213552736](https://codeforces.com/contest/1327/submission/213552736) | 1100 | math | GNU C++20 (64) | 12 July 2023 18:23:16 |
+| [Arithmetic Array](https://codeforces.com/contest/1537/problem/A) | A | 213552219 | 1537 | [213552219](https://codeforces.com/contest/1537/submission/213552219) | 800 | greedy, math | GNU C++20 (64) | 12 July 2023 18:17:42 |
+| [C+=](https://codeforces.com/contest/1368/problem/A) | A | 213545414 | 1368 | [213545414](https://codeforces.com/contest/1368/submission/213545414) | 800 | brute force, greedy, implementation, math | GNU C++20 (64) | 12 July 2023 17:12:01 |
+| [Triple](https://codeforces.com/contest/1669/problem/B) | B | 213545318 | 1669 | [213545318](https://codeforces.com/contest/1669/submission/213545318) | 800 | implementation, sortings | GNU C++20 (64) | 12 July 2023 17:11:08 |
+| [Vus the Cossack and a Contest](https://codeforces.com/contest/1186/problem/A) | A | 213545101 | 1186 | [213545101](https://codeforces.com/contest/1186/submission/213545101) | 800 | implementation | GNU C++20 (64) | 12 July 2023 17:09:08 |
+| [Alternating Subsequence](https://codeforces.com/contest/1343/problem/C) | C | 213536422 | 1343 | [213536422](https://codeforces.com/contest/1343/submission/213536422) | 1200 | dp, greedy, two pointers | GNU C++20 (64) | 12 July 2023 15:55:22 |
 | [Permutations & Primes](https://codeforces.com/contest/1844/problem/B) | B | 213343568 | 1844 | [213343568](https://codeforces.com/contest/1844/submission/213343568) | undefined | constructive algorithms, greedy, math | GNU C++20 (64) | 11 July 2023 15:21:00 |
-| [Subtraction Game](https://codeforces.com/contest/1844/problem/A) | A | 213319482 | 1844 | [213319482](https://codeforces.com/contest/1844/submission/213319482) | undefined | constructive algorithms, games, math | GNU C++20 (64) | 11 July 2023 14:51:08 |
+| [Subtraction Game](https://codeforces.com/contest/1844/problem/A) | A | 213319482 | 1844 | [213319482](https://codeforces.com/contest/1844/submission/213319482) | undefined | constructive algorithms, games | GNU C++20 (64) | 11 July 2023 14:51:08 |
 | [Rudolph and Cut the Rope ](https://codeforces.com/contest/1846/problem/A) | A | 212619141 | 1846 | [212619141](https://codeforces.com/contest/1846/submission/212619141) | undefined | implementation, math | GNU C++20 (64) | 07 July 2023 15:20:06 |
 | [Hamon Odyssey](https://codeforces.com/contest/1847/problem/B) | B | 212429610 | 1847 | [212429610](https://codeforces.com/contest/1847/submission/212429610) | undefined | bitmasks, greedy, two pointers | GNU C++20 (64) | 06 July 2023 16:04:07 |
 | [The Man who became a God ](https://codeforces.com/contest/1847/problem/A) | A | 212404056 | 1847 | [212404056](https://codeforces.com/contest/1847/submission/212404056) | undefined | greedy, sortings | GNU C++20 (64) | 06 July 2023 15:19:33 |
