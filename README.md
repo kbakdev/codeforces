@@ -1,6 +1,6 @@
 # User Info
 - Handle: 53jk1
-- Rating: 895
+- Rating: 781
 - Max Rating: 977
 - Contribution: 0
 - Rank: newbie
@@ -21,7 +21,7 @@
 | [Triple](https://codeforces.com/contest/1669/problem/B) | B | 213545318 | 1669 | [213545318](https://codeforces.com/contest/1669/submission/213545318) | 800 | implementation, sortings | GNU C++20 (64) | 12 July 2023 17:11:08 |
 | [Vus the Cossack and a Contest](https://codeforces.com/contest/1186/problem/A) | A | 213545101 | 1186 | [213545101](https://codeforces.com/contest/1186/submission/213545101) | 800 | implementation | GNU C++20 (64) | 12 July 2023 17:09:08 |
 | [Alternating Subsequence](https://codeforces.com/contest/1343/problem/C) | C | 213536422 | 1343 | [213536422](https://codeforces.com/contest/1343/submission/213536422) | 1200 | dp, greedy, two pointers | GNU C++20 (64) | 12 July 2023 15:55:22 |
-| [Permutations & Primes](https://codeforces.com/contest/1844/problem/B) | B | 213343568 | 1844 | [213343568](https://codeforces.com/contest/1844/submission/213343568) | undefined | constructive algorithms, greedy, math | GNU C++20 (64) | 11 July 2023 15:21:00 |
+| [Permutations & Primes](https://codeforces.com/contest/1844/problem/B) | B | 213343568 | 1844 | [213343568](https://codeforces.com/contest/1844/submission/213343568) | undefined | constructive algorithms, math | GNU C++20 (64) | 11 July 2023 15:21:00 |
 | [Subtraction Game](https://codeforces.com/contest/1844/problem/A) | A | 213319482 | 1844 | [213319482](https://codeforces.com/contest/1844/submission/213319482) | undefined | constructive algorithms, games, greedy | GNU C++20 (64) | 11 July 2023 14:51:08 |
 | [Rudolph and Cut the Rope ](https://codeforces.com/contest/1846/problem/A) | A | 212619141 | 1846 | [212619141](https://codeforces.com/contest/1846/submission/212619141) | undefined | implementation, math | GNU C++20 (64) | 07 July 2023 15:20:06 |
 | [Hamon Odyssey](https://codeforces.com/contest/1847/problem/B) | B | 212429610 | 1847 | [212429610](https://codeforces.com/contest/1847/submission/212429610) | undefined | bitmasks, greedy, two pointers | GNU C++20 (64) | 06 July 2023 16:04:07 |
