@@ -1,7 +1,7 @@
 # User Info
 - Handle: 53jk1
-- Rating: 781
-- Max Rating: 977
+- Rating: 1019
+- Max Rating: 1019
 - Contribution: 0
 - Rank: newbie
 - Max Rank: newbie
@@ -11,6 +11,10 @@
 # Submissions
 | Problem Name | Index | Submission ID | Contest ID | Solution Link | Rating | Tags | Programming Language | Submission Time |
 |--------------|-------|---------------|------------|---------------|--------|------|---------------------|-----------------|
+| [Vika and the Bridge](https://codeforces.com/contest/1848/problem/B) | B | 214089512 | 1848 | [214089512](https://codeforces.com/contest/1848/submission/214089512) | undefined | binary search, data structures, greedy, implementation, math, sortings | PyPy 3-64 | 16 July 2023 16:19:49 |
+| [Vika and Her Friends](https://codeforces.com/contest/1848/problem/A) | A | 214065014 | 1848 | [214065014](https://codeforces.com/contest/1848/submission/214065014) | undefined | constructive algorithms, games, math | PyPy 3-64 | 16 July 2023 15:14:51 |
+| [Elections](https://codeforces.com/contest/1593/problem/A) | A | 214043381 | 1593 | [214043381](https://codeforces.com/contest/1593/submission/214043381) | 800 | math | GNU C++20 (64) | 16 July 2023 13:43:55 |
+| [Grab the Candies](https://codeforces.com/contest/1807/problem/B) | B | 214008864 | 1807 | [214008864](https://codeforces.com/contest/1807/submission/214008864) | 800 | greedy | GNU C++20 (64) | 16 July 2023 09:02:00 |
 | [Two Substrings](https://codeforces.com/contest/550/problem/A) | A | 213558666 | 550 | [213558666](https://codeforces.com/contest/550/submission/213558666) | 1500 | brute force, dp, greedy, implementation, strings | GNU C++20 (64) | 12 July 2023 19:33:00 |
 | [CopyCopyCopyCopyCopy](https://codeforces.com/contest/1325/problem/B) | B | 213558495 | 1325 | [213558495](https://codeforces.com/contest/1325/submission/213558495) | 800 | greedy, implementation | GNU C++20 (64) | 12 July 2023 19:31:02 |
 | [Prepend and Append](https://codeforces.com/contest/1791/problem/C) | C | 213558277 | 1791 | [213558277](https://codeforces.com/contest/1791/submission/213558277) | 800 | implementation, two pointers | GNU C++20 (64) | 12 July 2023 19:28:31 |
@@ -23,9 +27,9 @@
 | [Alternating Subsequence](https://codeforces.com/contest/1343/problem/C) | C | 213536422 | 1343 | [213536422](https://codeforces.com/contest/1343/submission/213536422) | 1200 | dp, greedy, two pointers | GNU C++20 (64) | 12 July 2023 15:55:22 |
 | [Permutations & Primes](https://codeforces.com/contest/1844/problem/B) | B | 213343568 | 1844 | [213343568](https://codeforces.com/contest/1844/submission/213343568) | undefined | constructive algorithms, math | GNU C++20 (64) | 11 July 2023 15:21:00 |
 | [Subtraction Game](https://codeforces.com/contest/1844/problem/A) | A | 213319482 | 1844 | [213319482](https://codeforces.com/contest/1844/submission/213319482) | undefined | constructive algorithms, games, greedy | GNU C++20 (64) | 11 July 2023 14:51:08 |
-| [Rudolph and Cut the Rope ](https://codeforces.com/contest/1846/problem/A) | A | 212619141 | 1846 | [212619141](https://codeforces.com/contest/1846/submission/212619141) | undefined | implementation, math | GNU C++20 (64) | 07 July 2023 15:20:06 |
-| [Hamon Odyssey](https://codeforces.com/contest/1847/problem/B) | B | 212429610 | 1847 | [212429610](https://codeforces.com/contest/1847/submission/212429610) | undefined | bitmasks, greedy, two pointers | GNU C++20 (64) | 06 July 2023 16:04:07 |
-| [The Man who became a God ](https://codeforces.com/contest/1847/problem/A) | A | 212404056 | 1847 | [212404056](https://codeforces.com/contest/1847/submission/212404056) | undefined | greedy, sortings | GNU C++20 (64) | 06 July 2023 15:19:33 |
+| [Rudolph and Cut the Rope ](https://codeforces.com/contest/1846/problem/A) | A | 212619141 | 1846 | [212619141](https://codeforces.com/contest/1846/submission/212619141) | 800 | implementation, math | GNU C++20 (64) | 07 July 2023 15:20:06 |
+| [Hamon Odyssey](https://codeforces.com/contest/1847/problem/B) | B | 212429610 | 1847 | [212429610](https://codeforces.com/contest/1847/submission/212429610) | 1000 | bitmasks, greedy, two pointers | GNU C++20 (64) | 06 July 2023 16:04:07 |
+| [The Man who became a God ](https://codeforces.com/contest/1847/problem/A) | A | 212404056 | 1847 | [212404056](https://codeforces.com/contest/1847/submission/212404056) | 800 | greedy, sortings | GNU C++20 (64) | 06 July 2023 15:19:33 |
 | [Come Together](https://codeforces.com/contest/1845/problem/B) | B | 211519269 | 1845 | [211519269](https://codeforces.com/contest/1845/submission/211519269) | 900 | geometry, implementation, math | GNU C++20 (64) | 29 June 2023 16:21:11 |
 | [Business trip](https://codeforces.com/contest/149/problem/A) | A | 211368626 | 149 | [211368626](https://codeforces.com/contest/149/submission/211368626) | 900 | greedy, implementation, sortings | GNU C++20 (64) | 28 June 2023 19:33:37 |
 | [Stone Game](https://codeforces.com/contest/1538/problem/A) | A | 211365886 | 1538 | [211365886](https://codeforces.com/contest/1538/submission/211365886) | 800 | brute force, dp, greedy | GNU C++20 (64) | 28 June 2023 18:42:10 |
