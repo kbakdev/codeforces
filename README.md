@@ -12,7 +12,7 @@
 | Problem Name | Index | Submission ID | Contest ID | Solution Link | Rating | Tags | Programming Language | Submission Time |
 |--------------|-------|---------------|------------|---------------|--------|------|---------------------|-----------------|
 | [Vika and the Bridge](https://codeforces.com/contest/1848/problem/B) | B | 214089512 | 1848 | [214089512](https://codeforces.com/contest/1848/submission/214089512) | undefined | binary search, data structures, greedy, implementation, math, sortings | PyPy 3-64 | 16 July 2023 16:19:49 |
-| [Vika and Her Friends](https://codeforces.com/contest/1848/problem/A) | A | 214065014 | 1848 | [214065014](https://codeforces.com/contest/1848/submission/214065014) | undefined | constructive algorithms, games, math | PyPy 3-64 | 16 July 2023 15:14:51 |
+| [Vika and Her Friends](https://codeforces.com/contest/1848/problem/A) | A | 214065014 | 1848 | [214065014](https://codeforces.com/contest/1848/submission/214065014) | undefined | games, math | PyPy 3-64 | 16 July 2023 15:14:51 |
 | [Elections](https://codeforces.com/contest/1593/problem/A) | A | 214043381 | 1593 | [214043381](https://codeforces.com/contest/1593/submission/214043381) | 800 | math | GNU C++20 (64) | 16 July 2023 13:43:55 |
 | [Grab the Candies](https://codeforces.com/contest/1807/problem/B) | B | 214008864 | 1807 | [214008864](https://codeforces.com/contest/1807/submission/214008864) | 800 | greedy | GNU C++20 (64) | 16 July 2023 09:02:00 |
 | [Two Substrings](https://codeforces.com/contest/550/problem/A) | A | 213558666 | 550 | [213558666](https://codeforces.com/contest/550/submission/213558666) | 1500 | brute force, dp, greedy, implementation, strings | GNU C++20 (64) | 12 July 2023 19:33:00 |
