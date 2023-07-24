@@ -1,7 +1,7 @@
 # User Info
 - Handle: 53jk1
-- Rating: 1137
-- Max Rating: 1137
+- Rating: 1155
+- Max Rating: 1155
 - Contribution: 0
 - Rank: newbie
 - Max Rank: newbie
@@ -11,6 +11,8 @@
 # Submissions
 | Problem Name | Index | Submission ID | Contest ID | Solution Link | Rating | Tags | Programming Language | Submission Time |
 |--------------|-------|---------------|------------|---------------|--------|------|---------------------|-----------------|
+| [Fibonaccharsis](https://codeforces.com/contest/1853/problem/B) | B | 215239620 | 1853 | [215239620](https://codeforces.com/contest/1853/submission/215239620) | undefined | binary search, brute force, math | GNU C++20 (64) | 23 July 2023 16:20:36 |
+| [Desorting](https://codeforces.com/contest/1853/problem/A) | A | 215216169 | 1853 | [215216169](https://codeforces.com/contest/1853/submission/215216169) | undefined | binary search, brute force, greedy | GNU C++20 (64) | 23 July 2023 15:13:10 |
 | [We Were Both Children](https://codeforces.com/contest/1850/problem/F) | F | 214924650 | 1850 | [214924650](https://codeforces.com/contest/1850/submission/214924650) | undefined | brute force, implementation, math, number theory | GNU C++20 (64) | 21 July 2023 16:29:59 |
 | [Cardboard for Pictures](https://codeforces.com/contest/1850/problem/E) | E | 214864108 | 1850 | [214864108](https://codeforces.com/contest/1850/submission/214864108) | undefined | binary search, geometry, implementation, math | GNU C++20 (64) | 21 July 2023 15:27:54 |
 | [Balanced Round](https://codeforces.com/contest/1850/problem/D) | D | 214861368 | 1850 | [214861368](https://codeforces.com/contest/1850/submission/214861368) | undefined | brute force, greedy, implementation, sortings | GNU C++20 (64) | 21 July 2023 15:25:35 |
