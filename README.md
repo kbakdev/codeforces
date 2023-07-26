@@ -11,6 +11,10 @@
 # Submissions
 | Problem Name | Index | Submission ID | Contest ID | Solution Link | Rating | Tags | Programming Language | Submission Time |
 |--------------|-------|---------------|------------|---------------|--------|------|---------------------|-----------------|
+| [Prefix Permutation Sums](https://codeforces.com/contest/1851/problem/D) | D | 215591538 | 1851 | [215591538](https://codeforces.com/contest/1851/submission/215591538) | undefined | math | GNU C++20 (64) | 25 July 2023 16:07:29 |
+| [Tiles Comeback](https://codeforces.com/contest/1851/problem/C) | C | 215586294 | 1851 | [215586294](https://codeforces.com/contest/1851/submission/215586294) | undefined |  | GNU C++20 (64) | 25 July 2023 15:59:34 |
+| [Escalator Conversations](https://codeforces.com/contest/1851/problem/A) | A | 215540911 | 1851 | [215540911](https://codeforces.com/contest/1851/submission/215540911) | undefined | constructive algorithms | PyPy 3-64 | 25 July 2023 15:05:04 |
+| [Parity Sort](https://codeforces.com/contest/1851/problem/B) | B | 215538140 | 1851 | [215538140](https://codeforces.com/contest/1851/submission/215538140) | undefined | sortings, sortings, sortings, two pointers, two pointers, two pointers | GNU C++20 (64) | 25 July 2023 15:02:39 |
 | [Fibonaccharsis](https://codeforces.com/contest/1853/problem/B) | B | 215239620 | 1853 | [215239620](https://codeforces.com/contest/1853/submission/215239620) | undefined | binary search, brute force, math | GNU C++20 (64) | 23 July 2023 16:20:36 |
 | [Desorting](https://codeforces.com/contest/1853/problem/A) | A | 215216169 | 1853 | [215216169](https://codeforces.com/contest/1853/submission/215216169) | undefined | brute force, greedy | GNU C++20 (64) | 23 July 2023 15:13:10 |
 | [We Were Both Children](https://codeforces.com/contest/1850/problem/F) | F | 214924650 | 1850 | [214924650](https://codeforces.com/contest/1850/submission/214924650) | undefined | brute force, implementation, math, number theory | GNU C++20 (64) | 21 July 2023 16:29:59 |
