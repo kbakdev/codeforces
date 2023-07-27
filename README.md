@@ -1,28 +1,28 @@
 # User Info
 - Handle: 53jk1
-- Rating: 1162
-- Max Rating: 1162
+- Rating: 1205
+- Max Rating: 1205
 - Contribution: 0
-- Rank: newbie
-- Max Rank: newbie
+- Rank: pupil
+- Max Rank: pupil
 - Registration Year: 2023
 - Organization: 
 
 # Submissions
 | Problem Name | Index | Submission ID | Contest ID | Solution Link | Rating | Tags | Programming Language | Submission Time |
 |--------------|-------|---------------|------------|---------------|--------|------|---------------------|-----------------|
-| [Prefix Permutation Sums](https://codeforces.com/contest/1851/problem/D) | D | 215591538 | 1851 | [215591538](https://codeforces.com/contest/1851/submission/215591538) | undefined | math | GNU C++20 (64) | 25 July 2023 16:07:29 |
-| [Tiles Comeback](https://codeforces.com/contest/1851/problem/C) | C | 215586294 | 1851 | [215586294](https://codeforces.com/contest/1851/submission/215586294) | undefined |  | GNU C++20 (64) | 25 July 2023 15:59:34 |
-| [Escalator Conversations](https://codeforces.com/contest/1851/problem/A) | A | 215540911 | 1851 | [215540911](https://codeforces.com/contest/1851/submission/215540911) | undefined | constructive algorithms | PyPy 3-64 | 25 July 2023 15:05:04 |
-| [Parity Sort](https://codeforces.com/contest/1851/problem/B) | B | 215538140 | 1851 | [215538140](https://codeforces.com/contest/1851/submission/215538140) | undefined | sortings, sortings, sortings, two pointers, two pointers, two pointers | GNU C++20 (64) | 25 July 2023 15:02:39 |
-| [Fibonaccharsis](https://codeforces.com/contest/1853/problem/B) | B | 215239620 | 1853 | [215239620](https://codeforces.com/contest/1853/submission/215239620) | undefined | binary search, brute force, math | GNU C++20 (64) | 23 July 2023 16:20:36 |
-| [Desorting](https://codeforces.com/contest/1853/problem/A) | A | 215216169 | 1853 | [215216169](https://codeforces.com/contest/1853/submission/215216169) | undefined | brute force, greedy | GNU C++20 (64) | 23 July 2023 15:13:10 |
-| [We Were Both Children](https://codeforces.com/contest/1850/problem/F) | F | 214924650 | 1850 | [214924650](https://codeforces.com/contest/1850/submission/214924650) | undefined | brute force, implementation, math, number theory | GNU C++20 (64) | 21 July 2023 16:29:59 |
-| [Cardboard for Pictures](https://codeforces.com/contest/1850/problem/E) | E | 214864108 | 1850 | [214864108](https://codeforces.com/contest/1850/submission/214864108) | undefined | binary search, geometry, implementation, math | GNU C++20 (64) | 21 July 2023 15:27:54 |
-| [Balanced Round](https://codeforces.com/contest/1850/problem/D) | D | 214861368 | 1850 | [214861368](https://codeforces.com/contest/1850/submission/214861368) | undefined | brute force, greedy, implementation, sortings | GNU C++20 (64) | 21 July 2023 15:25:35 |
-| [Word on the Paper](https://codeforces.com/contest/1850/problem/C) | C | 214821672 | 1850 | [214821672](https://codeforces.com/contest/1850/submission/214821672) | undefined | implementation, strings | GNU C++20 (64) | 21 July 2023 14:58:36 |
-| [Ten Words of Wisdom](https://codeforces.com/contest/1850/problem/B) | B | 214817914 | 1850 | [214817914](https://codeforces.com/contest/1850/submission/214817914) | undefined | implementation, sortings | GNU C++20 (64) | 21 July 2023 14:56:37 |
-| [To My Critics](https://codeforces.com/contest/1850/problem/A) | A | 214813512 | 1850 | [214813512](https://codeforces.com/contest/1850/submission/214813512) | undefined | implementation, sortings | GNU C++20 (64) | 21 July 2023 14:54:30 |
+| [Prefix Permutation Sums](https://codeforces.com/contest/1851/problem/D) | D | 215591538 | 1851 | [215591538](https://codeforces.com/contest/1851/submission/215591538) | undefined | implementation, math | GNU C++20 (64) | 25 July 2023 16:07:29 |
+| [Tiles Comeback](https://codeforces.com/contest/1851/problem/C) | C | 215586294 | 1851 | [215586294](https://codeforces.com/contest/1851/submission/215586294) | undefined | greedy, implementation | GNU C++20 (64) | 25 July 2023 15:59:34 |
+| [Escalator Conversations](https://codeforces.com/contest/1851/problem/A) | A | 215540911 | 1851 | [215540911](https://codeforces.com/contest/1851/submission/215540911) | undefined | brute force, constructive algorithms, implementation, math | PyPy 3-64 | 25 July 2023 15:05:04 |
+| [Parity Sort](https://codeforces.com/contest/1851/problem/B) | B | 215538140 | 1851 | [215538140](https://codeforces.com/contest/1851/submission/215538140) | undefined | sortings, two pointers | GNU C++20 (64) | 25 July 2023 15:02:39 |
+| [Fibonaccharsis](https://codeforces.com/contest/1853/problem/B) | B | 215239620 | 1853 | [215239620](https://codeforces.com/contest/1853/submission/215239620) | 1200 | binary search, brute force, math | GNU C++20 (64) | 23 July 2023 16:20:36 |
+| [Desorting](https://codeforces.com/contest/1853/problem/A) | A | 215216169 | 1853 | [215216169](https://codeforces.com/contest/1853/submission/215216169) | 800 | brute force, greedy, math | GNU C++20 (64) | 23 July 2023 15:13:10 |
+| [We Were Both Children](https://codeforces.com/contest/1850/problem/F) | F | 214924650 | 1850 | [214924650](https://codeforces.com/contest/1850/submission/214924650) | 1300 | brute force, implementation, math, number theory | GNU C++20 (64) | 21 July 2023 16:29:59 |
+| [Cardboard for Pictures](https://codeforces.com/contest/1850/problem/E) | E | 214864108 | 1850 | [214864108](https://codeforces.com/contest/1850/submission/214864108) | 1100 | binary search, geometry, implementation, math | GNU C++20 (64) | 21 July 2023 15:27:54 |
+| [Balanced Round](https://codeforces.com/contest/1850/problem/D) | D | 214861368 | 1850 | [214861368](https://codeforces.com/contest/1850/submission/214861368) | 900 | brute force, greedy, implementation, sortings | GNU C++20 (64) | 21 July 2023 15:25:35 |
+| [Word on the Paper](https://codeforces.com/contest/1850/problem/C) | C | 214821672 | 1850 | [214821672](https://codeforces.com/contest/1850/submission/214821672) | 800 | implementation, strings | GNU C++20 (64) | 21 July 2023 14:58:36 |
+| [Ten Words of Wisdom](https://codeforces.com/contest/1850/problem/B) | B | 214817914 | 1850 | [214817914](https://codeforces.com/contest/1850/submission/214817914) | 800 | implementation, sortings | GNU C++20 (64) | 21 July 2023 14:56:37 |
+| [To My Critics](https://codeforces.com/contest/1850/problem/A) | A | 214813512 | 1850 | [214813512](https://codeforces.com/contest/1850/submission/214813512) | 800 | implementation, sortings | GNU C++20 (64) | 21 July 2023 14:54:30 |
 | [Vika and the Bridge](https://codeforces.com/contest/1848/problem/B) | B | 214089512 | 1848 | [214089512](https://codeforces.com/contest/1848/submission/214089512) | 1200 | binary search, data structures, greedy, implementation, math, sortings | PyPy 3-64 | 16 July 2023 16:19:49 |
 | [Vika and Her Friends](https://codeforces.com/contest/1848/problem/A) | A | 214065014 | 1848 | [214065014](https://codeforces.com/contest/1848/submission/214065014) | 900 | games, math | PyPy 3-64 | 16 July 2023 15:14:51 |
 | [Elections](https://codeforces.com/contest/1593/problem/A) | A | 214043381 | 1593 | [214043381](https://codeforces.com/contest/1593/submission/214043381) | 800 | math | GNU C++20 (64) | 16 July 2023 13:43:55 |
