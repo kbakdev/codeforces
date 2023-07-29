@@ -1,9 +1,9 @@
 # User Info
 - Handle: 53jk1
-- Rating: 1205
+- Rating: 1176
 - Max Rating: 1205
 - Contribution: 0
-- Rank: pupil
+- Rank: newbie
 - Max Rank: pupil
 - Registration Year: 2023
 - Organization: 
@@ -11,7 +11,7 @@
 # Submissions
 | Problem Name | Index | Submission ID | Contest ID | Solution Link | Rating | Tags | Programming Language | Submission Time |
 |--------------|-------|---------------|------------|---------------|--------|------|---------------------|-----------------|
-| [Monsters](https://codeforces.com/contest/1849/problem/B) | B | 215952741 | 1849 | [215952741](https://codeforces.com/contest/1849/submission/215952741) | undefined | greedy, sortings | GNU C++20 (64) | 27 July 2023 15:51:59 |
+| [Monsters](https://codeforces.com/contest/1849/problem/B) | B | 215952741 | 1849 | [215952741](https://codeforces.com/contest/1849/submission/215952741) | undefined | greedy, math, sortings | GNU C++20 (64) | 27 July 2023 15:51:59 |
 | [Morning Sandwich](https://codeforces.com/contest/1849/problem/A) | A | 215891868 | 1849 | [215891868](https://codeforces.com/contest/1849/submission/215891868) | undefined | implementation, math | PyPy 3-64 | 27 July 2023 14:41:03 |
 | [Prefix Permutation Sums](https://codeforces.com/contest/1851/problem/D) | D | 215591538 | 1851 | [215591538](https://codeforces.com/contest/1851/submission/215591538) | undefined | implementation, math | GNU C++20 (64) | 25 July 2023 16:07:29 |
 | [Tiles Comeback](https://codeforces.com/contest/1851/problem/C) | C | 215586294 | 1851 | [215586294](https://codeforces.com/contest/1851/submission/215586294) | undefined | greedy | GNU C++20 (64) | 25 July 2023 15:59:34 |
