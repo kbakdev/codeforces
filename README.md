@@ -1,10 +1,10 @@
 # User Info
 - Handle: 53jk1
-- Rating: 1136
-- Max Rating: 1205
+- Rating: 1112
+- Max Rating: 1162
 - Contribution: 0
 - Rank: newbie
-- Max Rank: pupil
+- Max Rank: newbie
 - Registration Year: 2023
 - Organization: 
 
