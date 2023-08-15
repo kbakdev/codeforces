@@ -11,10 +11,10 @@
 # Submissions
 | Problem Name | Index | Submission ID | Contest ID | Solution Link | Rating | Tags | Programming Language | Submission Time |
 |--------------|-------|---------------|------------|---------------|--------|------|---------------------|-----------------|
-| [Maximum Rounding](https://codeforces.com/contest/1857/problem/B) | B | 217707181 | 1857 | [217707181](https://codeforces.com/contest/1857/submission/217707181) | undefined | greedy, implementation, math | GNU C++20 (64) | 07 August 2023 16:09:16 |
-| [Array Coloring](https://codeforces.com/contest/1857/problem/A) | A | 217673787 | 1857 | [217673787](https://codeforces.com/contest/1857/submission/217673787) | undefined | greedy, math | GNU C++20 (64) | 07 August 2023 15:29:26 |
-| [Monsters](https://codeforces.com/contest/1849/problem/B) | B | 215952741 | 1849 | [215952741](https://codeforces.com/contest/1849/submission/215952741) | undefined | greedy, math, sortings | GNU C++20 (64) | 27 July 2023 15:51:59 |
-| [Morning Sandwich](https://codeforces.com/contest/1849/problem/A) | A | 215891868 | 1849 | [215891868](https://codeforces.com/contest/1849/submission/215891868) | undefined | implementation, math | PyPy 3-64 | 27 July 2023 14:41:03 |
+| [Maximum Rounding](https://codeforces.com/contest/1857/problem/B) | B | 217707181 | 1857 | [217707181](https://codeforces.com/contest/1857/submission/217707181) | 1100 | greedy, implementation, math | GNU C++20 (64) | 07 August 2023 16:09:16 |
+| [Array Coloring](https://codeforces.com/contest/1857/problem/A) | A | 217673787 | 1857 | [217673787](https://codeforces.com/contest/1857/submission/217673787) | 800 | greedy, math | GNU C++20 (64) | 07 August 2023 15:29:26 |
+| [Monsters](https://codeforces.com/contest/1849/problem/B) | B | 215952741 | 1849 | [215952741](https://codeforces.com/contest/1849/submission/215952741) | 1000 | greedy, math, sortings | GNU C++20 (64) | 27 July 2023 15:51:59 |
+| [Morning Sandwich](https://codeforces.com/contest/1849/problem/A) | A | 215891868 | 1849 | [215891868](https://codeforces.com/contest/1849/submission/215891868) | 800 | implementation, math | PyPy 3-64 | 27 July 2023 14:41:03 |
 | [Fibonaccharsis](https://codeforces.com/contest/1853/problem/B) | B | 215239620 | 1853 | [215239620](https://codeforces.com/contest/1853/submission/215239620) | 1200 | binary search, brute force, math | GNU C++20 (64) | 23 July 2023 16:20:36 |
 | [Desorting](https://codeforces.com/contest/1853/problem/A) | A | 215216169 | 1853 | [215216169](https://codeforces.com/contest/1853/submission/215216169) | 800 | brute force, greedy, math | GNU C++20 (64) | 23 July 2023 15:13:10 |
 | [We Were Both Children](https://codeforces.com/contest/1850/problem/F) | F | 214924650 | 1850 | [214924650](https://codeforces.com/contest/1850/submission/214924650) | 1300 | brute force, implementation, math, number theory | GNU C++20 (64) | 21 July 2023 16:29:59 |
