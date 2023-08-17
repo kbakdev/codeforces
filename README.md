@@ -11,7 +11,7 @@
 # Submissions
 | Problem Name | Index | Submission ID | Contest ID | Solution Link | Rating | Tags | Programming Language | Submission Time |
 |--------------|-------|---------------|------------|---------------|--------|------|---------------------|-----------------|
-| [Buttons](https://codeforces.com/contest/1858/problem/A) | A | 218970582 | 1858 | [218970582](https://codeforces.com/contest/1858/submission/218970582) | undefined | games, greedy, math | GNU C++20 (64) | 15 August 2023 15:36:04 |
+| [Buttons](https://codeforces.com/contest/1858/problem/A) | A | 218970582 | 1858 | [218970582](https://codeforces.com/contest/1858/submission/218970582) | 800 | games, greedy, math | GNU C++20 (64) | 15 August 2023 15:36:04 |
 | [Maximum Rounding](https://codeforces.com/contest/1857/problem/B) | B | 217707181 | 1857 | [217707181](https://codeforces.com/contest/1857/submission/217707181) | 1100 | greedy, implementation, math | GNU C++20 (64) | 07 August 2023 16:09:16 |
 | [Array Coloring](https://codeforces.com/contest/1857/problem/A) | A | 217673787 | 1857 | [217673787](https://codeforces.com/contest/1857/submission/217673787) | 800 | greedy, math | GNU C++20 (64) | 07 August 2023 15:29:26 |
 | [Monsters](https://codeforces.com/contest/1849/problem/B) | B | 215952741 | 1849 | [215952741](https://codeforces.com/contest/1849/submission/215952741) | 1000 | greedy, math, sortings | GNU C++20 (64) | 27 July 2023 15:51:59 |
