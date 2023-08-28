@@ -11,6 +11,8 @@
 # Submissions
 | Problem Name | Index | Submission ID | Contest ID | Solution Link | Rating | Tags | Programming Language | Submission Time |
 |--------------|-------|---------------|------------|---------------|--------|------|---------------------|-----------------|
+| [Who's Opposite?](https://codeforces.com/contest/1560/problem/B) | B | 220761912 | 1560 | [220761912](https://codeforces.com/contest/1560/submission/220761912) | 800 | math | PyPy 3-64 | 27 August 2023 19:12:36 |
+| [Vasya and Coins](https://codeforces.com/contest/1660/problem/A) | A | 220658320 | 1660 | [220658320](https://codeforces.com/contest/1660/submission/220658320) | 800 | greedy, math | PyPy 3-64 | 27 August 2023 08:39:06 |
 | [Buttons](https://codeforces.com/contest/1858/problem/A) | A | 218970582 | 1858 | [218970582](https://codeforces.com/contest/1858/submission/218970582) | 800 | games, greedy, math | GNU C++20 (64) | 15 August 2023 15:36:04 |
 | [Maximum Rounding](https://codeforces.com/contest/1857/problem/B) | B | 217707181 | 1857 | [217707181](https://codeforces.com/contest/1857/submission/217707181) | 1100 | greedy, implementation, math | GNU C++20 (64) | 07 August 2023 16:09:16 |
 | [Array Coloring](https://codeforces.com/contest/1857/problem/A) | A | 217673787 | 1857 | [217673787](https://codeforces.com/contest/1857/submission/217673787) | 800 | greedy, math | GNU C++20 (64) | 07 August 2023 15:29:26 |
