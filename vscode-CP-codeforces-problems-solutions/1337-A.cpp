@@ -1,18 +1,18 @@
-#include <iostream>
-
+#include <bits/stdc++.h>
 using namespace std;
 
 int main() {
+    ios::sync_with_stdio(false);
+    cin.tie(0);
+
     int t;
     cin >> t;
+
     while (t--) {
-        long long n;
-        cin >> n;
-        if (n < 3) {
-            cout << 0 << endl;
-        } else {
-            cout << n / 2 - !(n % 2) << endl;
-        }
+        int a, b, c, d;
+        cin >> a >> b >> c >> d;
+        cout << b << " " << c << " " << c << "\n";
     }
+
     return 0;
 }
