@@ -11,6 +11,10 @@
 # Submissions
 | Problem Name | Index | Submission ID | Contest ID | Solution Link | Rating | Tags | Programming Language | Submission Time |
 |--------------|-------|---------------|------------|---------------|--------|------|---------------------|-----------------|
+| [Random Teams](https://codeforces.com/contest/478/problem/B) | B | 226146115 | 478 | [226146115](https://codeforces.com/contest/478/submission/226146115) | 1300 | combinatorics, constructive algorithms, greedy, math | GNU C++20 (64) | 01 October 2023 10:29:38 |
+| [The number of positions](https://codeforces.com/contest/124/problem/A) | A | 226144632 | 124 | [226144632](https://codeforces.com/contest/124/submission/226144632) | 1000 | math | GNU C++20 (64) | 01 October 2023 10:16:44 |
+| [Fedor and New Game](https://codeforces.com/contest/467/problem/B) | B | 226143901 | 467 | [226143901](https://codeforces.com/contest/467/submission/226143901) | 1100 | bitmasks, brute force, constructive algorithms, implementation | GNU C++20 (64) | 01 October 2023 10:10:18 |
+| [Short Sort](https://codeforces.com/contest/1873/problem/A) | A | 226142453 | 1873 | [226142453](https://codeforces.com/contest/1873/submission/226142453) | 800 | brute force, implementation | GNU C++20 (64) | 01 October 2023 09:58:05 |
 | [Who's Opposite?](https://codeforces.com/contest/1560/problem/B) | B | 220761912 | 1560 | [220761912](https://codeforces.com/contest/1560/submission/220761912) | 800 | math | PyPy 3-64 | 27 August 2023 19:12:36 |
 | [Vasya and Coins](https://codeforces.com/contest/1660/problem/A) | A | 220658320 | 1660 | [220658320](https://codeforces.com/contest/1660/submission/220658320) | 800 | greedy, math | PyPy 3-64 | 27 August 2023 08:39:06 |
 | [Buttons](https://codeforces.com/contest/1858/problem/A) | A | 218970582 | 1858 | [218970582](https://codeforces.com/contest/1858/submission/218970582) | 800 | games, greedy, math | GNU C++20 (64) | 15 August 2023 15:36:04 |
