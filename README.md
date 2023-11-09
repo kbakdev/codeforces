@@ -11,7 +11,7 @@
 # Submissions
 | Problem Name | Index | Submission ID | Contest ID | Solution Link | Rating | Tags | Programming Language | Submission Time |
 |--------------|-------|---------------|------------|---------------|--------|------|---------------------|-----------------|
-| [Morning](https://codeforces.com/contest/1883/problem/A) | A | 229221139 | 1883 | [229221139](https://codeforces.com/contest/1883/submission/229221139) | undefined | math | PyPy 3-64 | 22 October 2023 11:25:20 |
+| [Morning](https://codeforces.com/contest/1883/problem/A) | A | 229221139 | 1883 | [229221139](https://codeforces.com/contest/1883/submission/229221139) | 800 | math | PyPy 3-64 | 22 October 2023 11:25:20 |
 | [Random Teams](https://codeforces.com/contest/478/problem/B) | B | 226146115 | 478 | [226146115](https://codeforces.com/contest/478/submission/226146115) | 1300 | combinatorics, constructive algorithms, greedy, math | GNU C++20 (64) | 01 October 2023 10:29:38 |
 | [The number of positions](https://codeforces.com/contest/124/problem/A) | A | 226144632 | 124 | [226144632](https://codeforces.com/contest/124/submission/226144632) | 1000 | math | GNU C++20 (64) | 01 October 2023 10:16:44 |
 | [Fedor and New Game](https://codeforces.com/contest/467/problem/B) | B | 226143901 | 467 | [226143901](https://codeforces.com/contest/467/submission/226143901) | 1100 | bitmasks, brute force, constructive algorithms, implementation | GNU C++20 (64) | 01 October 2023 10:10:18 |
