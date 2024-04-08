@@ -11,6 +11,8 @@
 # Submissions
 | Problem Name | Index | Submission ID | Contest ID | Solution Link | Rating | Tags | Programming Language | Submission Time |
 |--------------|-------|---------------|------------|---------------|--------|------|---------------------|-----------------|
+| [Good Kid](https://codeforces.com/contest/1873/problem/B) | B | 255464107 | 1873 | [255464107](https://codeforces.com/contest/1873/submission/255464107) | 800 | brute force, greedy, math | C++20 (GCC 13-64) | 07 April 2024 10:49:04 |
+| [Odd One Out](https://codeforces.com/contest/1915/problem/A) | A | 255463772 | 1915 | [255463772](https://codeforces.com/contest/1915/submission/255463772) | 800 | bitmasks, implementation | C++20 (GCC 13-64) | 07 April 2024 10:46:42 |
 | [Morning](https://codeforces.com/contest/1883/problem/A) | A | 229221139 | 1883 | [229221139](https://codeforces.com/contest/1883/submission/229221139) | 800 | math | PyPy 3-64 | 22 October 2023 11:25:20 |
 | [Random Teams](https://codeforces.com/contest/478/problem/B) | B | 226146115 | 478 | [226146115](https://codeforces.com/contest/478/submission/226146115) | 1300 | combinatorics, constructive algorithms, greedy, math | C++20 (GCC 11-64) | 01 October 2023 10:29:38 |
 | [The number of positions](https://codeforces.com/contest/124/problem/A) | A | 226144632 | 124 | [226144632](https://codeforces.com/contest/124/submission/226144632) | 1000 | math | C++20 (GCC 11-64) | 01 October 2023 10:16:44 |
