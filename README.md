@@ -11,6 +11,8 @@
 # Submissions
 | Problem Name | Index | Submission ID | Contest ID | Solution Link | Rating | Tags | Programming Language | Submission Time |
 |--------------|-------|---------------|------------|---------------|--------|------|---------------------|-----------------|
+| [Stair, Peak, or Neither?](https://codeforces.com/contest/1950/problem/A) | A | 257158850 | 1950 | [257158850](https://codeforces.com/contest/1950/submission/257158850) | 800 | implementation | Python 3 | 18 April 2024 11:06:15 |
+| [Vlad and the Best of Five](https://codeforces.com/contest/1926/problem/A) | A | 257148386 | 1926 | [257148386](https://codeforces.com/contest/1926/submission/257148386) | 800 | implementation | Python 3 | 18 April 2024 09:24:08 |
 | [Good Kid](https://codeforces.com/contest/1873/problem/B) | B | 255464107 | 1873 | [255464107](https://codeforces.com/contest/1873/submission/255464107) | 800 | brute force, greedy, math | C++20 (GCC 13-64) | 07 April 2024 10:49:04 |
 | [Odd One Out](https://codeforces.com/contest/1915/problem/A) | A | 255463772 | 1915 | [255463772](https://codeforces.com/contest/1915/submission/255463772) | 800 | bitmasks, implementation | C++20 (GCC 13-64) | 07 April 2024 10:46:42 |
 | [Morning](https://codeforces.com/contest/1883/problem/A) | A | 229221139 | 1883 | [229221139](https://codeforces.com/contest/1883/submission/229221139) | 800 | math | PyPy 3-64 | 22 October 2023 11:25:20 |
