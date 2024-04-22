@@ -11,6 +11,11 @@
 # Submissions
 | Problem Name | Index | Submission ID | Contest ID | Solution Link | Rating | Tags | Programming Language | Submission Time |
 |--------------|-------|---------------|------------|---------------|--------|------|---------------------|-----------------|
+| [Not Quite Latin Square](https://codeforces.com/contest/1915/problem/B) | B | 257651974 | 1915 | [257651974](https://codeforces.com/contest/1915/submission/257651974) | 800 | bitmasks, brute force, implementation | Python 3 | 21 April 2024 18:33:01 |
+| [Rudolf and the Ticket](https://codeforces.com/contest/1941/problem/A) | A | 257647400 | 1941 | [257647400](https://codeforces.com/contest/1941/submission/257647400) | 800 | brute force, math | Python 3 | 21 April 2024 17:58:05 |
+| [How Much Does Daytona Cost?](https://codeforces.com/contest/1878/problem/A) | A | 257644577 | 1878 | [257644577](https://codeforces.com/contest/1878/submission/257644577) | 800 | greedy | Python 3 | 21 April 2024 17:34:15 |
+| [Make it White](https://codeforces.com/contest/1927/problem/A) | A | 257552727 | 1927 | [257552727](https://codeforces.com/contest/1927/submission/257552727) | 800 | greedy, strings | Python 3 | 21 April 2024 10:55:00 |
+| [Square](https://codeforces.com/contest/1921/problem/A) | A | 257550945 | 1921 | [257550945](https://codeforces.com/contest/1921/submission/257550945) | 800 | greedy, math | Python 3 | 21 April 2024 10:44:40 |
 | [Stair, Peak, or Neither?](https://codeforces.com/contest/1950/problem/A) | A | 257158850 | 1950 | [257158850](https://codeforces.com/contest/1950/submission/257158850) | 800 | implementation | Python 3 | 18 April 2024 11:06:15 |
 | [Vlad and the Best of Five](https://codeforces.com/contest/1926/problem/A) | A | 257148386 | 1926 | [257148386](https://codeforces.com/contest/1926/submission/257148386) | 800 | implementation | Python 3 | 18 April 2024 09:24:08 |
 | [Good Kid](https://codeforces.com/contest/1873/problem/B) | B | 255464107 | 1873 | [255464107](https://codeforces.com/contest/1873/submission/255464107) | 800 | brute force, greedy, math | C++20 (GCC 13-64) | 07 April 2024 10:49:04 |
