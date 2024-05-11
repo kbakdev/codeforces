@@ -11,6 +11,7 @@
 # Submissions
 | Problem Name | Index | Submission ID | Contest ID | Solution Link | Rating | Tags | Programming Language | Submission Time |
 |--------------|-------|---------------|------------|---------------|--------|------|---------------------|-----------------|
+| [Can I Square?](https://codeforces.com/contest/1915/problem/C) | C | 260459240 | 1915 | [260459240](https://codeforces.com/contest/1915/submission/260459240) | 800 | binary search, implementation | Python 3 | 10 May 2024 21:35:04 |
 | [Game with Integers](https://codeforces.com/contest/1899/problem/A) | A | 258668291 | 1899 | [258668291](https://codeforces.com/contest/1899/submission/258668291) | 800 | games, math, number theory | Python 3 | 29 April 2024 10:28:12 |
 | [Not Quite Latin Square](https://codeforces.com/contest/1915/problem/B) | B | 257651974 | 1915 | [257651974](https://codeforces.com/contest/1915/submission/257651974) | 800 | bitmasks, brute force, implementation | Python 3 | 21 April 2024 18:33:01 |
 | [Rudolf and the Ticket](https://codeforces.com/contest/1941/problem/A) | A | 257647400 | 1941 | [257647400](https://codeforces.com/contest/1941/submission/257647400) | 800 | brute force, math | Python 3 | 21 April 2024 17:58:05 |
