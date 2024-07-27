@@ -11,6 +11,7 @@
 # Submissions
 | Problem Name | Index | Submission ID | Contest ID | Solution Link | Rating | Tags | Programming Language | Submission Time |
 |--------------|-------|---------------|------------|---------------|--------|------|---------------------|-----------------|
+| [My First Sorting Problem](https://codeforces.com/contest/1971/problem/A) | A | 272865129 | 1971 | [272865129](https://codeforces.com/contest/1971/submission/272865129) | 800 | implementation, sortings | Python 3 | 26 July 2024 19:01:01 |
 | [X Axis](https://codeforces.com/contest/1986/problem/A) | A | 266992361 | 1986 | [266992361](https://codeforces.com/contest/1986/submission/266992361) | 800 | brute force, geometry, math, sortings | Python 3 | 23 June 2024 15:05:42 |
 | [Creating Words](https://codeforces.com/contest/1985/problem/A) | A | 266879573 | 1985 | [266879573](https://codeforces.com/contest/1985/submission/266879573) | 800 | implementation, strings | Python 3 | 22 June 2024 20:38:25 |
 | [Can I Square?](https://codeforces.com/contest/1915/problem/C) | C | 260459240 | 1915 | [260459240](https://codeforces.com/contest/1915/submission/260459240) | 800 | binary search, implementation | Python 3 | 10 May 2024 21:35:04 |
