@@ -11,6 +11,7 @@
 # Submissions
 | Problem Name | Index | Submission ID | Contest ID | Solution Link | Rating | Tags | Programming Language | Submission Time |
 |--------------|-------|---------------|------------|---------------|--------|------|---------------------|-----------------|
+| [Problem Generator](https://codeforces.com/contest/1980/problem/A) | A | 276916923 | 1980 | [276916923](https://codeforces.com/contest/1980/submission/276916923) | 800 | math | Python 3 | 17 August 2024 11:24:14 |
 | [Kuriyama Mirai's Stones](https://codeforces.com/contest/433/problem/B) | B | 275661863 | 433 | [275661863](https://codeforces.com/contest/433/submission/275661863) | 1200 | dp, implementation, sortings | Python 3 | 10 August 2024 21:38:20 |
 | [Two-gram](https://codeforces.com/contest/977/problem/B) | B | 275624466 | 977 | [275624466](https://codeforces.com/contest/977/submission/275624466) | 900 | implementation, strings | Python 3 | 10 August 2024 16:21:02 |
 | [Two Vessels](https://codeforces.com/contest/1872/problem/A) | A | 275623894 | 1872 | [275623894](https://codeforces.com/contest/1872/submission/275623894) | 800 | brute force, greedy, math | Python 3 | 10 August 2024 16:19:39 |
