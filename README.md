@@ -11,6 +11,8 @@
 # Submissions
 | Problem Name | Index | Submission ID | Contest ID | Solution Link | Rating | Tags | Programming Language | Submission Time |
 |--------------|-------|---------------|------------|---------------|--------|------|---------------------|-----------------|
+| [Only Pluses](https://codeforces.com/contest/1992/problem/A) | A | 277047406 | 1992 | [277047406](https://codeforces.com/contest/1992/submission/277047406) | 800 | brute force, constructive algorithms, greedy, math, sortings | Python 3 | 18 August 2024 12:08:01 |
+| [Clock Conversion](https://codeforces.com/contest/1950/problem/C) | C | 277046854 | 1950 | [277046854](https://codeforces.com/contest/1950/submission/277046854) | 800 | implementation, math | Python 3 | 18 August 2024 12:03:12 |
 | [Problem Generator](https://codeforces.com/contest/1980/problem/A) | A | 276916923 | 1980 | [276916923](https://codeforces.com/contest/1980/submission/276916923) | 800 | math | Python 3 | 17 August 2024 11:24:14 |
 | [Kuriyama Mirai's Stones](https://codeforces.com/contest/433/problem/B) | B | 275661863 | 433 | [275661863](https://codeforces.com/contest/433/submission/275661863) | 1200 | dp, implementation, sortings | Python 3 | 10 August 2024 21:38:20 |
 | [Two-gram](https://codeforces.com/contest/977/problem/B) | B | 275624466 | 977 | [275624466](https://codeforces.com/contest/977/submission/275624466) | 900 | implementation, strings | Python 3 | 10 August 2024 16:21:02 |
