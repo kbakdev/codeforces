@@ -11,6 +11,7 @@
 # Submissions
 | Problem Name | Index | Submission ID | Contest ID | Solution Link | Rating | Tags | Programming Language | Submission Time |
 |--------------|-------|---------------|------------|---------------|--------|------|---------------------|-----------------|
+| [Legs](https://codeforces.com/contest/1996/problem/A) | A | 277798131 | 1996 | [277798131](https://codeforces.com/contest/1996/submission/277798131) | 800 | binary search, math, ternary search | Python 3 | 23 August 2024 15:15:22 |
 | [Only Pluses](https://codeforces.com/contest/1992/problem/A) | A | 277047406 | 1992 | [277047406](https://codeforces.com/contest/1992/submission/277047406) | 800 | brute force, constructive algorithms, greedy, math, sortings | Python 3 | 18 August 2024 12:08:01 |
 | [Clock Conversion](https://codeforces.com/contest/1950/problem/C) | C | 277046854 | 1950 | [277046854](https://codeforces.com/contest/1950/submission/277046854) | 800 | implementation, math | Python 3 | 18 August 2024 12:03:12 |
 | [Problem Generator](https://codeforces.com/contest/1980/problem/A) | A | 276916923 | 1980 | [276916923](https://codeforces.com/contest/1980/submission/276916923) | 800 | math | Python 3 | 17 August 2024 11:24:14 |
