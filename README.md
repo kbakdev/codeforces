@@ -11,6 +11,11 @@
 # Submissions
 | Problem Name | Index | Submission ID | Contest ID | Solution Link | Rating | Tags | Programming Language | Submission Time |
 |--------------|-------|---------------|------------|---------------|--------|------|---------------------|-----------------|
+| [K-divisible Sum](https://codeforces.com/contest/1476/problem/A) | A | 278693795 | 1476 | [278693795](https://codeforces.com/contest/1476/submission/278693795) | 1000 | binary search, constructive algorithms, greedy, math | C++23 (GCC 14-64, msys2) | 29 August 2024 20:35:42 |
+| [Upscaling](https://codeforces.com/contest/1950/problem/B) | B | 278692491 | 1950 | [278692491](https://codeforces.com/contest/1950/submission/278692491) | 800 | implementation | Python 3 | 29 August 2024 20:17:34 |
+| [Free Ice Cream](https://codeforces.com/contest/686/problem/A) | A | 278691948 | 686 | [278691948](https://codeforces.com/contest/686/submission/278691948) | 800 | constructive algorithms, implementation | Python 3 | 29 August 2024 20:09:06 |
+| [Same Parity Summands](https://codeforces.com/contest/1352/problem/B) | B | 278691831 | 1352 | [278691831](https://codeforces.com/contest/1352/submission/278691831) | 1200 | constructive algorithms, math | Python 3 | 29 August 2024 20:07:32 |
+| [Turtle Puzzle: Rearrange and Negate](https://codeforces.com/contest/1933/problem/A) | A | 278691060 | 1933 | [278691060](https://codeforces.com/contest/1933/submission/278691060) | 800 | greedy, math, sortings | Python 3 | 29 August 2024 19:56:32 |
 | [Legs](https://codeforces.com/contest/1996/problem/A) | A | 277798131 | 1996 | [277798131](https://codeforces.com/contest/1996/submission/277798131) | 800 | binary search, math, ternary search | Python 3 | 23 August 2024 15:15:22 |
 | [Only Pluses](https://codeforces.com/contest/1992/problem/A) | A | 277047406 | 1992 | [277047406](https://codeforces.com/contest/1992/submission/277047406) | 800 | brute force, constructive algorithms, greedy, math, sortings | Python 3 | 18 August 2024 12:08:01 |
 | [Clock Conversion](https://codeforces.com/contest/1950/problem/C) | C | 277046854 | 1950 | [277046854](https://codeforces.com/contest/1950/submission/277046854) | 800 | implementation, math | Python 3 | 18 August 2024 12:03:12 |
