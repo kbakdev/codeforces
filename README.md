@@ -11,6 +11,7 @@
 # Submissions
 | Problem Name | Index | Submission ID | Contest ID | Solution Link | Rating | Tags | Programming Language | Submission Time |
 |--------------|-------|---------------|------------|---------------|--------|------|---------------------|-----------------|
+| [Polycarp and the Day of Pi](https://codeforces.com/contest/1790/problem/A) | A | 280170691 | 1790 | [280170691](https://codeforces.com/contest/1790/submission/280170691) | 800 | implementation, math, strings | Python 3 | 07 September 2024 09:17:13 |
 | [K-divisible Sum](https://codeforces.com/contest/1476/problem/A) | A | 278693795 | 1476 | [278693795](https://codeforces.com/contest/1476/submission/278693795) | 1000 | binary search, constructive algorithms, greedy, math | C++23 (GCC 14-64, msys2) | 29 August 2024 20:35:42 |
 | [Upscaling](https://codeforces.com/contest/1950/problem/B) | B | 278692491 | 1950 | [278692491](https://codeforces.com/contest/1950/submission/278692491) | 800 | implementation | Python 3 | 29 August 2024 20:17:34 |
 | [Free Ice Cream](https://codeforces.com/contest/686/problem/A) | A | 278691948 | 686 | [278691948](https://codeforces.com/contest/686/submission/278691948) | 800 | constructive algorithms, implementation | Python 3 | 29 August 2024 20:09:06 |
