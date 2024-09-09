@@ -11,6 +11,9 @@
 # Submissions
 | Problem Name | Index | Submission ID | Contest ID | Solution Link | Rating | Tags | Programming Language | Submission Time |
 |--------------|-------|---------------|------------|---------------|--------|------|---------------------|-----------------|
+| [Minimize!](https://codeforces.com/contest/2009/problem/A) | A | 280308993 | 2009 | [280308993](https://codeforces.com/contest/2009/submission/280308993) | undefined | brute force, math | Python 3 | 08 September 2024 10:40:25 |
+| [Advantage](https://codeforces.com/contest/1760/problem/C) | C | 280308443 | 1760 | [280308443](https://codeforces.com/contest/1760/submission/280308443) | 800 | data structures, implementation, sortings | C++23 (GCC 14-64, msys2) | 08 September 2024 10:36:25 |
+| [Nastia and Nearly Good Numbers](https://codeforces.com/contest/1521/problem/A) | A | 280307891 | 1521 | [280307891](https://codeforces.com/contest/1521/submission/280307891) | 1000 | constructive algorithms, math, number theory | C++17 (GCC 7-32) | 08 September 2024 10:32:14 |
 | [Polycarp and the Day of Pi](https://codeforces.com/contest/1790/problem/A) | A | 280170691 | 1790 | [280170691](https://codeforces.com/contest/1790/submission/280170691) | 800 | implementation, math, strings | Python 3 | 07 September 2024 09:17:13 |
 | [K-divisible Sum](https://codeforces.com/contest/1476/problem/A) | A | 278693795 | 1476 | [278693795](https://codeforces.com/contest/1476/submission/278693795) | 1000 | binary search, constructive algorithms, greedy, math | C++23 (GCC 14-64, msys2) | 29 August 2024 20:35:42 |
 | [Upscaling](https://codeforces.com/contest/1950/problem/B) | B | 278692491 | 1950 | [278692491](https://codeforces.com/contest/1950/submission/278692491) | 800 | implementation | Python 3 | 29 August 2024 20:17:34 |
