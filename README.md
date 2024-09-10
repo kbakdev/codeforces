@@ -11,6 +11,7 @@
 # Submissions
 | Problem Name | Index | Submission ID | Contest ID | Solution Link | Rating | Tags | Programming Language | Submission Time |
 |--------------|-------|---------------|------------|---------------|--------|------|---------------------|-----------------|
+| [Make AP](https://codeforces.com/contest/1624/problem/B) | B | 280476963 | 1624 | [280476963](https://codeforces.com/contest/1624/submission/280476963) | 900 | implementation, math | Python 3 | 09 September 2024 16:31:07 |
 | [Minimize!](https://codeforces.com/contest/2009/problem/A) | A | 280308993 | 2009 | [280308993](https://codeforces.com/contest/2009/submission/280308993) | undefined | brute force, math | Python 3 | 08 September 2024 10:40:25 |
 | [Advantage](https://codeforces.com/contest/1760/problem/C) | C | 280308443 | 1760 | [280308443](https://codeforces.com/contest/1760/submission/280308443) | 800 | data structures, implementation, sortings | C++23 (GCC 14-64, msys2) | 08 September 2024 10:36:25 |
 | [Nastia and Nearly Good Numbers](https://codeforces.com/contest/1521/problem/A) | A | 280307891 | 1521 | [280307891](https://codeforces.com/contest/1521/submission/280307891) | 1000 | constructive algorithms, math, number theory | C++17 (GCC 7-32) | 08 September 2024 10:32:14 |
