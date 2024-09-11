@@ -11,6 +11,9 @@
 # Submissions
 | Problem Name | Index | Submission ID | Contest ID | Solution Link | Rating | Tags | Programming Language | Submission Time |
 |--------------|-------|---------------|------------|---------------|--------|------|---------------------|-----------------|
+| [File Name](https://codeforces.com/contest/978/problem/B) | B | 280560026 | 978 | [280560026](https://codeforces.com/contest/978/submission/280560026) | 800 | greedy, strings | Python 3 | 10 September 2024 10:57:12 |
+| [Colorful Stones (Simplified Edition)](https://codeforces.com/contest/265/problem/A) | A | 280554981 | 265 | [280554981](https://codeforces.com/contest/265/submission/280554981) | 800 | implementation | Python 3 | 10 September 2024 10:11:24 |
+| [Rook](https://codeforces.com/contest/1907/problem/A) | A | 280554543 | 1907 | [280554543](https://codeforces.com/contest/1907/submission/280554543) | 800 | implementation | Python 3 | 10 September 2024 10:07:34 |
 | [Make AP](https://codeforces.com/contest/1624/problem/B) | B | 280476963 | 1624 | [280476963](https://codeforces.com/contest/1624/submission/280476963) | 900 | implementation, math | Python 3 | 09 September 2024 16:31:07 |
 | [Minimize!](https://codeforces.com/contest/2009/problem/A) | A | 280308993 | 2009 | [280308993](https://codeforces.com/contest/2009/submission/280308993) | undefined | brute force, math | Python 3 | 08 September 2024 10:40:25 |
 | [Advantage](https://codeforces.com/contest/1760/problem/C) | C | 280308443 | 1760 | [280308443](https://codeforces.com/contest/1760/submission/280308443) | 800 | data structures, implementation, sortings | C++23 (GCC 14-64, msys2) | 08 September 2024 10:36:25 |
