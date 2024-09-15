@@ -11,6 +11,7 @@
 # Submissions
 | Problem Name | Index | Submission ID | Contest ID | Solution Link | Rating | Tags | Programming Language | Submission Time |
 |--------------|-------|---------------|------------|---------------|--------|------|---------------------|-----------------|
+| [Recovering a Small String](https://codeforces.com/contest/1931/problem/A) | A | 281256603 | 1931 | [281256603](https://codeforces.com/contest/1931/submission/281256603) | 800 | brute force, strings | Python 3 | 14 September 2024 17:29:51 |
 | [Number of Ways](https://codeforces.com/contest/466/problem/C) | C | 281034350 | 466 | [281034350](https://codeforces.com/contest/466/submission/281034350) | 1700 | binary search, brute force, data structures, dp, two pointers | Python 3 | 13 September 2024 19:25:25 |
 | [File Name](https://codeforces.com/contest/978/problem/B) | B | 280560026 | 978 | [280560026](https://codeforces.com/contest/978/submission/280560026) | 800 | greedy, strings | Python 3 | 10 September 2024 10:57:12 |
 | [Colorful Stones (Simplified Edition)](https://codeforces.com/contest/265/problem/A) | A | 280554981 | 265 | [280554981](https://codeforces.com/contest/265/submission/280554981) | 800 | implementation | Python 3 | 10 September 2024 10:11:24 |
