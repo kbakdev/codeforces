@@ -11,6 +11,8 @@
 # Submissions
 | Problem Name | Index | Submission ID | Contest ID | Solution Link | Rating | Tags | Programming Language | Submission Time |
 |--------------|-------|---------------|------------|---------------|--------|------|---------------------|-----------------|
+| [Odd/Even Increments](https://codeforces.com/contest/1669/problem/C) | C | 285836689 | 1669 | [285836689](https://codeforces.com/contest/1669/submission/285836689) | 800 | greedy, greedy, implementation, math | Python 3 | 14 October 2024 13:58:45 |
+| [Product of Three Numbers](https://codeforces.com/contest/1294/problem/C) | C | 285836229 | 1294 | [285836229](https://codeforces.com/contest/1294/submission/285836229) | 1300 | greedy, math, number theory | Python 3 | 14 October 2024 13:55:42 |
 | [Round Down the Price](https://codeforces.com/contest/1702/problem/A) | A | 282491203 | 1702 | [282491203](https://codeforces.com/contest/1702/submission/282491203) | 800 | constructive algorithms | Python 3 | 22 September 2024 14:26:09 |
 | [1D Eraser](https://codeforces.com/contest/1873/problem/D) | D | 282490661 | 1873 | [282490661](https://codeforces.com/contest/1873/submission/282490661) | 800 | greedy, implementation, two pointers | C++23 (GCC 14-64, msys2) | 22 September 2024 14:21:35 |
 | [System of Equations](https://codeforces.com/contest/214/problem/A) | A | 282478950 | 214 | [282478950](https://codeforces.com/contest/214/submission/282478950) | 800 | brute force | Python 3 | 22 September 2024 13:03:49 |
