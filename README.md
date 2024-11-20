@@ -11,6 +11,11 @@
 # Submissions
 | Problem Name | Index | Submission ID | Contest ID | Solution Link | Rating | Tags | Programming Language | Submission Time |
 |--------------|-------|---------------|------------|---------------|--------|------|---------------------|-----------------|
+| [Funny Permutation](https://codeforces.com/contest/1741/problem/B) | B | 292308298 | 1741 | [292308298](https://codeforces.com/contest/1741/submission/292308298) | 800 | constructive algorithms, math | C++23 (GCC 14-64, msys2) | 19 November 2024 10:12:50 |
+| [Walking Master](https://codeforces.com/contest/1806/problem/A) | A | 292308278 | 1806 | [292308278](https://codeforces.com/contest/1806/submission/292308278) | 800 | geometry, greedy, math | C++23 (GCC 14-64, msys2) | 19 November 2024 10:12:41 |
+| [Two Rabbits](https://codeforces.com/contest/1304/problem/A) | A | 292308236 | 1304 | [292308236](https://codeforces.com/contest/1304/submission/292308236) | 800 | math | C++23 (GCC 14-64, msys2) | 19 November 2024 10:12:21 |
+| [Sum of 2050](https://codeforces.com/contest/1517/problem/A) | A | 292308197 | 1517 | [292308197](https://codeforces.com/contest/1517/submission/292308197) | 800 | greedy, math | C++23 (GCC 14-64, msys2) | 19 November 2024 10:12:03 |
+| [Balanced Substring](https://codeforces.com/contest/1569/problem/A) | A | 292307964 | 1569 | [292307964](https://codeforces.com/contest/1569/submission/292307964) | 800 | implementation | C++23 (GCC 14-64, msys2) | 19 November 2024 10:09:48 |
 | [Least Product](https://codeforces.com/contest/1917/problem/A) | A | 291934908 | 1917 | [291934908](https://codeforces.com/contest/1917/submission/291934908) | 800 | constructive algorithms, math | C++23 (GCC 14-64, msys2) | 17 November 2024 12:55:24 |
 | [The Legend of Freya the Frog](https://codeforces.com/contest/2009/problem/C) | C | 291934883 | 2009 | [291934883](https://codeforces.com/contest/2009/submission/291934883) | 1100 | implementation, math | C++23 (GCC 14-64, msys2) | 17 November 2024 12:55:11 |
 | [Potion-making](https://codeforces.com/contest/1525/problem/A) | A | 291934855 | 1525 | [291934855](https://codeforces.com/contest/1525/submission/291934855) | 800 | math, number theory | C++23 (GCC 14-64, msys2) | 17 November 2024 12:55:00 |
