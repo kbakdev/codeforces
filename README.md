@@ -11,6 +11,7 @@
 # Submissions
 | Problem Name | Index | Submission ID | Contest ID | Solution Link | Rating | Tags | Programming Language | Submission Time |
 |--------------|-------|---------------|------------|---------------|--------|------|---------------------|-----------------|
+| [Flowers](https://codeforces.com/contest/474/problem/D) | D | 292450734 | 474 | [292450734](https://codeforces.com/contest/474/submission/292450734) | 1700 | dp | C++23 (GCC 14-64, msys2) | 20 November 2024 09:15:31 |
 | [Funny Permutation](https://codeforces.com/contest/1741/problem/B) | B | 292308298 | 1741 | [292308298](https://codeforces.com/contest/1741/submission/292308298) | 800 | constructive algorithms, math | C++23 (GCC 14-64, msys2) | 19 November 2024 10:12:50 |
 | [Walking Master](https://codeforces.com/contest/1806/problem/A) | A | 292308278 | 1806 | [292308278](https://codeforces.com/contest/1806/submission/292308278) | 800 | geometry, greedy, math | C++23 (GCC 14-64, msys2) | 19 November 2024 10:12:41 |
 | [Two Rabbits](https://codeforces.com/contest/1304/problem/A) | A | 292308236 | 1304 | [292308236](https://codeforces.com/contest/1304/submission/292308236) | 800 | math | C++23 (GCC 14-64, msys2) | 19 November 2024 10:12:21 |
