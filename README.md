@@ -11,6 +11,7 @@
 # Submissions
 | Problem Name | Index | Submission ID | Contest ID | Solution Link | Rating | Tags | Programming Language | Submission Time |
 |--------------|-------|---------------|------------|---------------|--------|------|---------------------|-----------------|
+| [Upload More RAM](https://codeforces.com/contest/1987/problem/A) | A | 293120249 | 1987 | [293120249](https://codeforces.com/contest/1987/submission/293120249) | 800 | greedy, math | C++23 (GCC 14-64, msys2) | 24 November 2024 15:54:30 |
 | [Numeric String Template](https://codeforces.com/contest/2000/problem/C) | C | 292991329 | 2000 | [292991329](https://codeforces.com/contest/2000/submission/292991329) | 1000 | data structures, strings | C++23 (GCC 14-64, msys2) | 23 November 2024 18:25:25 |
 | [Devu, the Singer and Churu, the Joker](https://codeforces.com/contest/439/problem/A) | A | 292644955 | 439 | [292644955](https://codeforces.com/contest/439/submission/292644955) | 900 | greedy, implementation | C++23 (GCC 14-64, msys2) | 21 November 2024 15:09:04 |
 | [Sasha and the Drawing](https://codeforces.com/contest/1929/problem/B) | B | 292644885 | 1929 | [292644885](https://codeforces.com/contest/1929/submission/292644885) | 800 | constructive algorithms, greedy, math | C++23 (GCC 14-64, msys2) | 21 November 2024 15:08:44 |
