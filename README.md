@@ -11,6 +11,9 @@
 # Submissions
 | Problem Name | Index | Submission ID | Contest ID | Solution Link | Rating | Tags | Programming Language | Submission Time |
 |--------------|-------|---------------|------------|---------------|--------|------|---------------------|-----------------|
+| [Rating Increase](https://codeforces.com/contest/1913/problem/A) | A | 293260543 | 1913 | [293260543](https://codeforces.com/contest/1913/submission/293260543) | 800 | implementation | C++23 (GCC 14-64, msys2) | 25 November 2024 17:47:00 |
+| [Scuza](https://codeforces.com/contest/1742/problem/E) | E | 293260455 | 1742 | [293260455](https://codeforces.com/contest/1742/submission/293260455) | 1200 | binary search, greedy, math | C++23 (GCC 14-64, msys2) | 25 November 2024 17:46:20 |
+| [Jagged Swaps](https://codeforces.com/contest/1896/problem/A) | A | 293260419 | 1896 | [293260419](https://codeforces.com/contest/1896/submission/293260419) | 800 | sortings | C++23 (GCC 14-64, msys2) | 25 November 2024 17:46:05 |
 | [Upload More RAM](https://codeforces.com/contest/1987/problem/A) | A | 293120249 | 1987 | [293120249](https://codeforces.com/contest/1987/submission/293120249) | 800 | greedy, math | C++23 (GCC 14-64, msys2) | 24 November 2024 15:54:30 |
 | [Numeric String Template](https://codeforces.com/contest/2000/problem/C) | C | 292991329 | 2000 | [292991329](https://codeforces.com/contest/2000/submission/292991329) | 1000 | data structures, strings | C++23 (GCC 14-64, msys2) | 23 November 2024 18:25:25 |
 | [Devu, the Singer and Churu, the Joker](https://codeforces.com/contest/439/problem/A) | A | 292644955 | 439 | [292644955](https://codeforces.com/contest/439/submission/292644955) | 900 | greedy, implementation | C++23 (GCC 14-64, msys2) | 21 November 2024 15:09:04 |
