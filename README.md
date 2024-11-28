@@ -11,6 +11,7 @@
 # Submissions
 | Problem Name | Index | Submission ID | Contest ID | Solution Link | Rating | Tags | Programming Language | Submission Time |
 |--------------|-------|---------------|------------|---------------|--------|------|---------------------|-----------------|
+| [Mark the Photographer](https://codeforces.com/contest/1705/problem/A) | A | 293497219 | 1705 | [293497219](https://codeforces.com/contest/1705/submission/293497219) | 800 | greedy, sortings | C++23 (GCC 14-64, msys2) | 27 November 2024 12:16:59 |
 | [Rating Increase](https://codeforces.com/contest/1913/problem/A) | A | 293260543 | 1913 | [293260543](https://codeforces.com/contest/1913/submission/293260543) | 800 | implementation | C++23 (GCC 14-64, msys2) | 25 November 2024 17:47:00 |
 | [Scuza](https://codeforces.com/contest/1742/problem/E) | E | 293260455 | 1742 | [293260455](https://codeforces.com/contest/1742/submission/293260455) | 1200 | binary search, greedy, math | C++23 (GCC 14-64, msys2) | 25 November 2024 17:46:20 |
 | [Jagged Swaps](https://codeforces.com/contest/1896/problem/A) | A | 293260419 | 1896 | [293260419](https://codeforces.com/contest/1896/submission/293260419) | 800 | sortings | C++23 (GCC 14-64, msys2) | 25 November 2024 17:46:05 |
