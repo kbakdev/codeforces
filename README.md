@@ -1,6 +1,6 @@
 # User Info
 - Handle: 53jk1
-- Rating: 724
+- Rating: 697
 - Max Rating: 1162
 - Contribution: 0
 - Rank: newbie
@@ -12,9 +12,9 @@
 | Problem Name | Index | Submission ID | Contest ID | Solution Link | Rating | Tags | Programming Language | Submission Time |
 |--------------|-------|---------------|------------|---------------|--------|------|---------------------|-----------------|
 | [Hard Problem](https://codeforces.com/contest/2044/problem/C) | C | 296698278 | 2044 | [296698278](https://codeforces.com/contest/2044/submission/296698278) | undefined | greedy, math | Python 3 | 15 December 2024 15:44:14 |
-| [Normal Problem](https://codeforces.com/contest/2044/problem/B) | B | 296696114 | 2044 | [296696114](https://codeforces.com/contest/2044/submission/296696114) | undefined | strings | Python 3 | 15 December 2024 15:41:53 |
+| [Normal Problem](https://codeforces.com/contest/2044/problem/B) | B | 296696114 | 2044 | [296696114](https://codeforces.com/contest/2044/submission/296696114) | undefined | implementation, strings | Python 3 | 15 December 2024 15:41:53 |
 | [Easy Problem](https://codeforces.com/contest/2044/problem/A) | A | 296691812 | 2044 | [296691812](https://codeforces.com/contest/2044/submission/296691812) | undefined | brute force, math | Python 3 | 15 December 2024 15:37:23 |
-| [Line Breaks](https://codeforces.com/contest/2050/problem/A) | A | 296558093 | 2050 | [296558093](https://codeforces.com/contest/2050/submission/296558093) | undefined | implementation | C++23 (GCC 14-64, msys2) | 15 December 2024 11:22:25 |
+| [Line Breaks](https://codeforces.com/contest/2050/problem/A) | A | 296558093 | 2050 | [296558093](https://codeforces.com/contest/2050/submission/296558093) | 800 | implementation | C++23 (GCC 14-64, msys2) | 15 December 2024 11:22:25 |
 | [Meximization](https://codeforces.com/contest/1497/problem/A) | A | 296219888 | 1497 | [296219888](https://codeforces.com/contest/1497/submission/296219888) | 800 | brute force, data structures, greedy, sortings | C++23 (GCC 14-64, msys2) | 12 December 2024 21:54:52 |
 | [Treasure Chest](https://codeforces.com/contest/1895/problem/A) | A | 296219880 | 1895 | [296219880](https://codeforces.com/contest/1895/submission/296219880) | 800 | math | C++23 (GCC 14-64, msys2) | 12 December 2024 21:54:37 |
 | [Choose Two Numbers](https://codeforces.com/contest/1206/problem/A) | A | 296219868 | 1206 | [296219868](https://codeforces.com/contest/1206/submission/296219868) | 800 | math, sortings | C++23 (GCC 14-64, msys2) | 12 December 2024 21:54:11 |
