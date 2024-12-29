@@ -1,6 +1,6 @@
 # User Info
 - Handle: 53jk1
-- Rating: 698
+- Rating: 964
 - Max Rating: 1162
 - Contribution: 0
 - Rank: newbie
@@ -11,6 +11,9 @@
 # Submissions
 | Problem Name | Index | Submission ID | Contest ID | Solution Link | Rating | Tags | Programming Language | Submission Time |
 |--------------|-------|---------------|------------|---------------|--------|------|---------------------|-----------------|
+| [Bewitching Stargazer](https://codeforces.com/contest/2053/problem/C) | C | 298860614 | 2053 | [298860614](https://codeforces.com/contest/2053/submission/298860614) | undefined | divide and conquer, dp, math | Python 3 | 28 December 2024 15:59:36 |
+| [Outstanding Impressionist](https://codeforces.com/contest/2053/problem/B) | B | 298843945 | 2053 | [298843945](https://codeforces.com/contest/2053/submission/298843945) | undefined | binary search, brute force, greedy | Python 3 | 28 December 2024 15:25:20 |
+| [Tender Carpenter](https://codeforces.com/contest/2053/problem/A) | A | 298835952 | 2053 | [298835952](https://codeforces.com/contest/2053/submission/298835952) | undefined | dp, geometry, greedy, math | Python 3 | 28 December 2024 15:11:19 |
 | [Hard Problem](https://codeforces.com/contest/2044/problem/C) | C | 296698278 | 2044 | [296698278](https://codeforces.com/contest/2044/submission/296698278) | 800 | greedy, math | Python 3 | 15 December 2024 15:44:14 |
 | [Normal Problem](https://codeforces.com/contest/2044/problem/B) | B | 296696114 | 2044 | [296696114](https://codeforces.com/contest/2044/submission/296696114) | 800 | implementation, strings | Python 3 | 15 December 2024 15:41:53 |
 | [Easy Problem](https://codeforces.com/contest/2044/problem/A) | A | 296691812 | 2044 | [296691812](https://codeforces.com/contest/2044/submission/296691812) | 800 | brute force, math | Python 3 | 15 December 2024 15:37:23 |
