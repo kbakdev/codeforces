@@ -1,6 +1,6 @@
 # User Info
 - Handle: 53jk1
-- Rating: 964
+- Rating: 967
 - Max Rating: 1162
 - Contribution: 0
 - Rank: newbie
