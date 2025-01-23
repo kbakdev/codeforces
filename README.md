@@ -1,16 +1,20 @@
 # User Info
 - Handle: 53jk1
-- Rating: 967
-- Max Rating: 1162
+- Rating: 1263
+- Max Rating: 1263
 - Contribution: 0
-- Rank: newbie
-- Max Rank: newbie
+- Rank: pupil
+- Max Rank: pupil
 - Registration Year: 2023
 - Organization: 
 
 # Submissions
 | Problem Name | Index | Submission ID | Contest ID | Solution Link | Rating | Tags | Programming Language | Submission Time |
 |--------------|-------|---------------|------------|---------------|--------|------|---------------------|-----------------|
+| [Remove Exactly Two](https://codeforces.com/contest/2063/problem/C) | C | 302448155 | 2063 | [302448155](https://codeforces.com/contest/2063/submission/302448155) | undefined | brute force, data structures, dp, graphs, greedy, trees | C++23 (GCC 14-64, msys2) | 22 January 2025 13:44:33 |
+| [Game With Triangles](https://codeforces.com/contest/2063/problem/D) | D | 302444286 | 2063 | [302444286](https://codeforces.com/contest/2063/submission/302444286) | undefined | binary search, greedy, math, ternary search, two pointers | Python 3 | 22 January 2025 13:38:18 |
+| [Subsequence Update](https://codeforces.com/contest/2063/problem/B) | B | 302424366 | 2063 | [302424366](https://codeforces.com/contest/2063/submission/302424366) | undefined | greedy | C++23 (GCC 14-64, msys2) | 22 January 2025 13:08:03 |
+| [Minimal Coprime](https://codeforces.com/contest/2063/problem/A) | A | 302385398 | 2063 | [302385398](https://codeforces.com/contest/2063/submission/302385398) | undefined | math | C++23 (GCC 14-64, msys2) | 22 January 2025 12:21:48 |
 | [Ambitious Kid](https://codeforces.com/contest/1866/problem/A) | A | 300997561 | 1866 | [300997561](https://codeforces.com/contest/1866/submission/300997561) | 800 | math | C++23 (GCC 14-64, msys2) | 14 January 2025 15:22:57 |
 | [Powered Addition](https://codeforces.com/contest/1338/problem/A) | A | 300997418 | 1338 | [300997418](https://codeforces.com/contest/1338/submission/300997418) | 1500 | greedy, math | C++23 (GCC 14-64, msys2) | 14 January 2025 15:21:38 |
 | [Coprime](https://codeforces.com/contest/1742/problem/D) | D | 300996582 | 1742 | [300996582](https://codeforces.com/contest/1742/submission/300996582) | 1100 | brute force, greedy, number theory | C++23 (GCC 14-64, msys2) | 14 January 2025 15:14:06 |
