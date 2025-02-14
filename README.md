@@ -11,9 +11,9 @@
 # Submissions
 | Problem Name | Index | Submission ID | Contest ID | Solution Link | Rating | Tags | Programming Language | Submission Time |
 |--------------|-------|---------------|------------|---------------|--------|------|---------------------|-----------------|
-| [Two Large Bags](https://codeforces.com/contest/2067/problem/B) | B | 305667901 | 2067 | [305667901](https://codeforces.com/contest/2067/submission/305667901) | undefined | dp, greedy, sortings | PyPy 3-64 | 11 February 2025 15:42:01 |
+| [Two Large Bags](https://codeforces.com/contest/2067/problem/B) | B | 305667901 | 2067 | [305667901](https://codeforces.com/contest/2067/submission/305667901) | undefined | brute force, dp, greedy, sortings | PyPy 3-64 | 11 February 2025 15:42:01 |
 | [Devyatkino](https://codeforces.com/contest/2067/problem/C) | C | 305660202 | 2067 | [305660202](https://codeforces.com/contest/2067/submission/305660202) | undefined | brute force, dfs and similar, greedy, math | PyPy 3-64 | 11 February 2025 15:29:50 |
-| [Adjacent Digit Sums](https://codeforces.com/contest/2067/problem/A) | A | 305633408 | 2067 | [305633408](https://codeforces.com/contest/2067/submission/305633408) | undefined | constructive algorithms, math | PyPy 3-64 | 11 February 2025 14:57:13 |
+| [Adjacent Digit Sums](https://codeforces.com/contest/2067/problem/A) | A | 305633408 | 2067 | [305633408](https://codeforces.com/contest/2067/submission/305633408) | undefined | brute force, constructive algorithms, math | PyPy 3-64 | 11 February 2025 14:57:13 |
 | [Ambitious Kid](https://codeforces.com/contest/1866/problem/A) | A | 300997561 | 1866 | [300997561](https://codeforces.com/contest/1866/submission/300997561) | 800 | math | C++23 (GCC 14-64, msys2) | 14 January 2025 15:22:57 |
 | [Powered Addition](https://codeforces.com/contest/1338/problem/A) | A | 300997418 | 1338 | [300997418](https://codeforces.com/contest/1338/submission/300997418) | 1500 | greedy, math | C++23 (GCC 14-64, msys2) | 14 January 2025 15:21:38 |
 | [Coprime](https://codeforces.com/contest/1742/problem/D) | D | 300996582 | 1742 | [300996582](https://codeforces.com/contest/1742/submission/300996582) | 1100 | brute force, greedy, number theory | C++23 (GCC 14-64, msys2) | 14 January 2025 15:14:06 |
